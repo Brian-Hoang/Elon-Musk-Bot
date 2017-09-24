@@ -390,22 +390,7 @@
  
   Array
 (
-    [0] => https://csq.com/wp-content/uploads/2014/01/Michelson-Opening-275x175.jpg
-    [1] => 275
-    [2] => 175
-    [3] => 1
-)
-   
- 
- Technology 
- 
- 
-											Gary Michelson: A Beautiful Mind										 
- 
- 
-  Array
-(
-    [0] => https://csq.com/wp-content/uploads/2014/01/Dan-Yomtobian_Opening-275x175.jpg
+    [0] => https://csq.com/wp-content/uploads/2016/01/Hyperloop-6-Opening-275x175.jpg
     [1] => 275
     [2] => 175
     [3] => 1
@@ -415,23 +400,7 @@
  Innovation 
  
  
-											Daniel Yomtobian: No Missing Links										 
- 
- 
-  Array
-(
-    [0] => https://csq.com/wp-content/uploads/2013/12/annenberg-cover-275x175.jpg
-    [1] => 275
-    [2] => 175
-    [3] => 1
-)
-   
- 
- Innovation 
- 
- 
-											The Science of Social Media										 
- 
+											Rob Lloyd: Transportation, Transformed										 
  
  
   Array
@@ -451,6 +420,22 @@
  
   Array
 (
+    [0] => https://csq.com/wp-content/uploads/2017/01/DeWolfe_Opening-275x175.jpg
+    [1] => 275
+    [2] => 175
+    [3] => 1
+)
+   
+ 
+ Innovation 
+ 
+ 
+											Chris DeWolfe: Mobile Media Mastermind										 
+ 
+ 
+ 
+  Array
+(
     [0] => https://csq.com/wp-content/uploads/2014/12/marks-cover-275x175.jpg
     [1] => 275
     [2] => 175
@@ -466,7 +451,7 @@
  
   Array
 (
-    [0] => https://csq.com/wp-content/uploads/2015/01/Adam-Miller-Opening-275x175.jpg
+    [0] => https://csq.com/wp-content/uploads/2015/01/Edgecast-Opening-275x175.jpg
     [1] => 275
     [2] => 175
     [3] => 1
@@ -476,7 +461,22 @@
  Technology 
  
  
-											Adam Miller: High Visibility in the Cloud										 
+											EdgeCast: From $4 million in funding to a $400 million exit										 
+ 
+ 
+  Array
+(
+    [0] => https://csq.com/wp-content/uploads/2017/08/Walter-OBrien-Indiana-275x175.jpg
+    [1] => 275
+    [2] => 175
+    [3] => 1
+)
+   
+ 
+ Entertainment 
+ 
+ 
+											Walter O’Brien: Inspiring Genius Around the Globe										 
  
  
  

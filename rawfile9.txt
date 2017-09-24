@@ -1,6 +1,6 @@
 
  
-<globe-environment environment="prod" application="reference" dataCenter="us-west-2" serverName="6c4cb7379604d8503492fdf21ca2582cfb7a1a820afce30d83735dba622f891f" />
+<globe-environment environment="prod" application="reference" dataCenter="us-west-2" serverName="002894705a07df2f5a315297977e4808a0cb9ae59a39f5514184b69359a4d761" />
 <globe-server version="2.26.1" vendor="" title="reference-server" />
 <globe-resources version="2.26.1"  />
  
@@ -509,40 +509,6 @@ History & Culture
  
  
   end: comp print-button mntl-print-button  
- 
- 
- cite cite this article 
- 
- 
- 
- 
- 
- 
- 
- 
- Format 
- mla 
- apa 
- chicago 
- Your Citation 
- 
- Bellis, Mary. "Biography: Elon Musk." ThoughtCo, Jul. 18, 2017, thoughtco.com/elon-musk-profile-1992154. 
- Bellis, Mary. (2017, July 18). Biography: Elon Musk. Retrieved from https://www.thoughtco.com/elon-musk-profile-1992154 
- Bellis, Mary. "Biography: Elon Musk." ThoughtCo. https://www.thoughtco.com/elon-musk-profile-1992154 (accessed September 24, 2017). 
- 
- 
- 
- 
- 
- 
- 
- copy citation 
- 
- 
- 
- 
- 
-  end: comp citation-widget  
  
  
  

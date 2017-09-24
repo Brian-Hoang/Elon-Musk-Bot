@@ -1,8 +1,4 @@
-import sys
 import nltk
-from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
-from collections import defaultdict
 from bs4 import BeautifulSoup
 import requests
 import urllib.request
@@ -10,6 +6,9 @@ import re
 import glob
 
 
+# function to clean and tokenize scraped text/sentences
+# note: processedfiles only have tabs and newlines removed
+# note: cleanfiles are the ones that have been manually cleaned afterwards, so do not override those
 def cleaner():
     counter = 0
     # for every rawfile in directory...
@@ -21,7 +20,6 @@ def cleaner():
             text = f.read()
             text = text.replace('\n', '').replace('\r', '')  # replace newlines with spaces
             text = text.replace('\t', '').replace('\r', '')  # replace tabs with spaces
-            # tokens = nltk.word_tokenize(text)  # tokenize text
             tokens = nltk.sent_tokenize(text)  # tokenize text
             with open('processedfile{}.txt'.format(counter), 'w') as f2:
                 f2.write(str(tokens))
@@ -37,10 +35,11 @@ def visible(element):
     return True
 
 
+# function to gather text from urls
 def scraper():
     with open('urls.txt') as f:
         lines = f.readlines()
-        lines = [url.strip() for url in lines]
+        lines = [url.strip() for url in lines]  # remove empty lines
         for counter, url in enumerate(lines):
             if url:
                 print(url)
@@ -54,14 +53,15 @@ def scraper():
                 temp_list = list(result)  # list from filter
                 temp_str = ' '.join(temp_list)
                 with open('rawfile{}.txt'.format(counter), 'w') as f2:
-                    f2.write(temp_str)
+                    f2.write(temp_str)  # write scraped text to files
 
     # end of function
     print("end of scraper")
 
 
+# function to gather relevant urls from a starter url
 def crawler():
-    starter_url = "https://en.wikipedia.org/wiki/Elon_Musk"
+    starter_url = "https://en.wikipedia.org/wiki/Elon_Musk"  # crawling will start here
 
     r = requests.get(starter_url)
 
@@ -74,7 +74,7 @@ def crawler():
         for link in soup.find_all('a'):
             link_str = str(link.get('href'))
             print(link_str)
-            if 'Musk' in link_str or 'musk' in link_str:
+            if 'Musk' in link_str or 'musk' in link_str:  # only crawl if 'musk' is present
                 if url_count >= 20:  # crawling 20 instead of 15 in case of bad URLs
                     break
                 if link_str.startswith('/url?q='):
@@ -83,7 +83,7 @@ def crawler():
                 if '&' in link_str:
                     i = link_str.find('&')
                     link_str = link_str[:i]
-                if link_str.startswith('http') and 'wikipedia' not in link_str:
+                if link_str.startswith('http') and 'wikipedia' not in link_str:  # don't include wiki links
                     f.write(link_str + '\n')
                     url_count += 1
 
