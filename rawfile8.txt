@@ -1,0 +1,492 @@
+
+ 
+ 
+  Google Tag Manager  
+ 
+ 
+ 
+ 
+  End Google Tag Manager  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Please enable javascript.      Learn more...  Internet Explorer  |   Firefox  |  Chrome  |  Safari 
+ ASME is built with the most modern web standards, which give you a better & more reliable experience. 
+ 
+ 
+ 
+  Cludo Search (Fetch Cludo Styles)  
+ 
+ [if lte IE 9]>
+<script src="https://api.cludo.com/scripts/xdomain.js" slave="https://api.cludo.com/proxy.html" type="text/javascript"></script>
+<![endif] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Communities 
+ | 
+ Membership 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect With Us: 
+ 
+ ASME on Twitter 
+ ASME on Facebook 
+ ASME on LinkedIn 
+ <li id="youtube"><a href="https://www.youtube.com/user/ASMEFutureME" target="_blank">ASME on YouTube</a></li> 
+ 
+ 
+ 
+ 
+ All Topics 
+ 
+ Bioengineering 
+ Career & Education 
+ Design & Manufacturing 
+ Power & Energy 
+ Standards & Certification 
+ Technology & Society 
+ All Topics 
+ 
+ Events 
+ 
+ Conferences 
+ Competitions 
+ Committee Meetings 
+ Calendar 
+ 
+ 
+ About Us 
+ 
+ News 
+ Membership 
+ Get Involved 
+ Advocacy 
+ Foundation 
+ Careers at ASME 
+ ME Magazine 
+ 
+ 
+ Shop ASME 
+ 
+ Standards 
+ Certifications 
+ Courses 
+ Journals 
+ Proceedings 
+ Books 
+ Shop All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign In  or  Create Account 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0) 
+ 
+ 
+  Cludo Search (Search Input)  
+ 
+ 
+ 
+ 
+ 
+  Lightbox markup  
+  end Lightbox markup  
+  Cludo Search (Initialize ASME Search)  
+ 
+ 
+ 
+ [if !IE]>  start main body <![endif] 
+ 
+ [if !IE]>  start main content div for articles, template selected via template selector web part <![endif] 
+ 
+ 
+ Engineer in Focus: Elon Musk 
+ 
+ 
+ 
+ [if !IE]>  start main article content<![endif] 
+ 
+ 
+ 
+ By Paul Glanville, PE, Senior Engineer, Gas Technology Institute 
+ In many ways the engineer is practical in nature, comfortable in balancing the visions of designers, the promise of science, and the realities of schedules and budgets. Often paraphrasing Voltaire, who said "the perfect is the enemy of the good", the practical engineer may be accused of being too conservative or stifling creativity. It is through this practical nature, however, that amazing technologies become realities that impact our lives. An example of such a practical engineer is Elon Musk, an innovator taking risks and achieving great things through his two major endeavors: developing high-performance, market ready electric vehicles with Tesla Motors and successful commercial space exploration with SpaceX. 
+ 
+ 
+ 
+ Elon Musk in Mission Control---SpaceX CEO and Chief Designer Elon Musk watches Dragon's progress inside of SpaceX Mission Control in Hawthorne, CA. May 31st, 2012. Photo Credit: SpaceX 
+ 
+ 
+ 
+ Raised in South Africa, Musk has said in interviews that he  was initially drawn to computer programming, something that stuck with him as  he abruptly dropped out of a high energy physics graduate program at Stanford  University to pursue several internet startup companies, most notably as co-founded of PayPal. After these early  successes, Musk transitioned to focus on two issues with technological  solutions, the future of human space exploration and the transition to a clean energy economy.  In 2002 and 2003, Musk co-founded SpaceX, a private space transport company, and Tesla Motors respectively, which he is currently CEO of both companies. Tackling the capital-intensive automotive and aerospace industries with the focus of an engineer, under Musk's leadership SpaceX and Tesla Motors have recently reached significant milestones; leading Popular Mechanics awarded Musk with the 2012 Breakthrough Leadership Award: 
+ 
+ As a contractor to NASA in a post-shuttle era, SpaceX successfully launched and docked its spacecraft  Dragon  with the International Space Station earlier this year, making history as the first non-governmental entity to do so. 
+ Following the critical success of its  all-electric high performance luxury car, the  Roadster , Tesla began delivery of its long awaited  Model S  all-electric sedan earlier this year, with plans to produce 5,000 models from their Silicon Valley production facility. Following the first delivery of the  Roadster  in 2008, Tesla has made an undeniable impact on the electric car industry, with many major automakers releasing mass-market electric vehicles since then. 
+ 
+ While Mr. Musk does not have an engineering degree per say, he holds degrees in Physics and Economics from the University of Pennsylvania, few dispute his assertion, in response to his focus on technical details as CEO of Tesla and Space X, "I'm an engineer, so what I do is engineering.  That's what I'm good at."  Even as a CEO, his close involvement with design, engineering, and critical technical decisions is unique amongst his peers, stating that he doesn't "know how they make any kind of sensible decision."  This echoes an axiom of successful innovation from Bell Labs, recalled by Jon Gertner's panoramic history The Idea Factory, that leadership should have technical competency, from first-line managers all the way to CEO.  This in no way diminishes Musk's focus on the marketing and business side of his companies, critical to their initial startup and sustained growth.  As a practical engineer, he recognizes that particularly in clean tech, a technical success that fails in the market makes little impact on addressing current societal issues.  As he puts it in an automobile magazine interview (August 2012), he references his approach with Tesla: 
+ “ I believe you've got  to have a compelling product at the end of the day. Otherwise you're just going  to address a very small segment of the population that cares enough to suffer  through this horrible product. And it's just never going to scale. ” 
+ In addition to showing that thoughtful risk taking while sharing  ASME’s vision of “ applying engineering  knowledge for improving the quality of life ”, Musk illustrates that an  engineer’s work and business know-how can lead to amazing results. Musk also  embodies the kind of engineering leadership that is needed as organizations,  industry, and governments work together to tackle the interrelated issues of  energy, climate, and poverty.  For the  early career engineer to grow into their roles as our next generation of  leaders tackling these issues, we are fortunate to have innovative role models  like Elon Musk.  
+ 
+ 
+  %= PagesHelper.GetDocumentField("Body") % 
+ 
+ 
+ 
+ ME TODAY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if !IE]>  end main body <![endif] 
+ 
+ 
+ 
+ 
+ 
+ ASME Membership 
+ 
+ 
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ Receive exclusive resources and a free ME Magazine subscription, discounts on training, conferences & publications, and join thousands of dedicated engineers. 
+ More about ASME – The American Society of Mechanical Engineers 
+ 
+ 
+ 
+ Featured Topics 
+ 
+ 
+ Bioengineering 
+ Career & Education 
+ Design & Manufacturing 
+ Power & Energy 
+ Standards & Certification 
+ Technology & Society 
+ All Topics 
+ 
+ 
+ 
+ 
+ Site Map 
+ 
+ 
+ Events 
+ 
+ Conferences 
+ Competitions 
+ Committee Meetings 
+ Calendar 
+ 
+ About Us 
+ 
+ News 
+ Membership 
+ Get Involved 
+ Advocacy 
+ Foundation 
+ Careers at ASME 
+ ME Magazine 
+ Press 
+ 
+ 
+ 
+ Shop ASME 
+ 
+ Standards 
+ Certifications 
+ Courses 
+ Journals 
+ Proceedings 
+ Books 
+ Shop All 
+ Shopping Cart (0) 
+ 
+ Utility 
+ 
+ C&S; Connect 
+ CA Connect 
+ Journal Tool 
+ Job Board 
+ Directory 
+ 
+ Sign In 
+                                    or
+                                     Register 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Contact 
+ li><a href="javascript:void(0)">Sponsorship</a></li 
+ li>ASME.org</li 
+ 
+ 
+ Terms of Use 
+ Privacy Statement 
+ About This Site 
+ Community Rules 
+ ©   2017   The American Society of Mechanical Engineers 
+ 
+ ul class="lang">
+            	<li>English</li>
+                <li><a href="http://es.asme.org/enes/">Espa&ntilde;ol</a></li>
+                <li><a href="http://cn.asme.org/enzs/">Chinese</a></li>
+            </ul 
+ 
+ 
+ 
+ 
+ 
+ Share  Article Generic 
+ 
+ 
+ Post to your profile 
+  Post to your profile 
+ 
+ Post to your group 
+  Post to your group(s) 
+ 
+ 
+ You must select a location to post to. 
+ 
+ 
+ 
+      Start typing the name of the group
+       
+ 
+ Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must select a group to post to. 
+ 
+ 
+ 
+ Comment 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+ 
+ Share  Article Generic 
+ 
+ 
+ Profile 
+  Post to your profile 
+ 
+ Groups 
+  Post to your group(s) 
+ 
+ 
+ You must select a location to post to. 
+ 
+ 
+ 
+      Start typing the name of the group
+       
+ 
+ Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must select a group to post to. 
+ 
+ 
+ 
+ Comment 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+ 
+ This  article  generic has been shared. 
+ 
+ 
+ 
+ 
+  Page Loaded JS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Start Quantcast Tag  
+ 
+ 
+ 
+ 
+ 
+  End Quantcast tag  
+ 
+ 
+  Copyright 2004-2006 Unica Corporation.  All rights reserved.  
+ 
+ 
+ 
+ 
+ 
+ Google Analytics AddThis tracking 
+ 
+ 
+  Google Analytics Social Button Tracking  
+ 
+ 
+  Facebook async loading of JSAPI  
+ 
+ 
+ 
+ 
+ 

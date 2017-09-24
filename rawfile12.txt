@@ -1,0 +1,87 @@
+<![endif] 
+ 
+ 
+ 
+ Jump to navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Falcon 9 
+ Falcon Heavy 
+ Dragon 
+ Updates 
+ About SpaceX 
+ Careers 
+ Gallery 
+ Shop 
+   
+ 
+  /#navigation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You are here Home   
+ Elon Musk 
+ 
+  CEO AND LEAD DESIGNER Elon Musk is the founder, CEO and lead designer at Space Exploration Technologies (SpaceX), where he oversees the development and manufacturing of advanced rockets and spacecraft for missions to and beyond Earth orbit. Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed liquid-fuel launch vehicle to orbit the Earth. Following that milestone, NASA awarded SpaceX with contracts to carry cargo and crew to the International Space Station (ISS). A global leader in commercial launch services, SpaceX is the first commercial provider to launch and recover a spacecraft from orbit, attach a commercial spacecraft to the ISS and successfully land an orbital-class rocket booster. By pioneering the development of fully and rapidly reusable rockets and spacecraft, SpaceX is dramatically reducing the cost of access to space, the first step in making life on Mars a reality in our lifetime. Elon is also the co-founder, CEO and product architect of Tesla, which makes electric cars, giant batteries and solar products. He is the co-founder and chairman of OpenAI, a nonprofit research company working to build safe artificial intelligence and ensure that AI's benefits are as widely and evenly distributed as possible. Previously, Elon co-founded and sold PayPal, the world's leading Internet payment system, and Zip2, one of the first internet maps and directions services, which helped bring major publishers, including the New York Times and Hearst, online. 
+ 
+ 
+ 
+ 
+ Rockets & Spacecraft 
+ Falcon 9 
+ Falcon Heavy 
+ Dragon 
+ 
+  /.block  
+ 
+ Updates 
+ News 
+ Launch Manifest 
+ 
+  /.block  
+ 
+ About SpaceX 
+ Company 
+ Careers 
+ Gallery 
+ Shop 
+ 
+  /.block  
+ 
+ SpaceX 
+Rocket Road 
+Hawthorne, California 
+ 
+  /.block  
+ 
+ 
+ 
+ 
+ <span class="follow-text">Follow SpaceX</span> <span>|</span> <a target="_blank" href="http://www.facebook.com/spacex">FaceBook</a> <a target="_blank" href="http://www.youtube.com/spacex">YouTube</a> <a target="_blank" href="https://plus.google.com/104512038508075599339?prsrc=3">Google+</a> <a target="_blank" href="http://www.twitter.com/spacex">Twitter</a> 
+ Follow SpaceX | 
+ 
+ Facebook 
+ Twitter 
+ YouTube 
+ Flickr 
+ Instagram 
+ 
+ 
+ 
+
+      
+  © 2017 Space Exploration Technologies Corp.
+ 
+ 
+ 
+ [if lte IE 7]><script src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js" type="text/javascript"></script><script type="text/javascript">CFInstall.check({"node":"chrome-frame","mode":"overlay","destination":"http:\/\/www.spacex.com\/elon-musk"});</script><![endif]  

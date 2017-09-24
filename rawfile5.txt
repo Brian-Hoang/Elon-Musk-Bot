@@ -1,0 +1,3977 @@
+
+ class fe.views.head_modules.MetaGoogleAds 
+  google_ad_section_start(name=s1)   google_ad_section_end(name=s1)  
+ class fe.views.head_modules.MetaAddOns 
+ class fe.views.meta_properties.MetaProperties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.meta_links.MetaLinks 
+ 
+ 
+ class fe.views.head_modules.CssDesktop 
+ [if IE]>
+  <link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/all-ie8-9--.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/all1-ie8-9--.css" />
+<![endif] 
+ [if !IE]><! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <![endif] 
+ 
+ [if IE]>
+  <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/registration--.css" />
+<![endif] 
+ [if !IE]><! 
+ 
+ <![endif] 
+ 
+ class fe.views.head_modules.CssReaderComments 
+ [if IE]>
+  <script>
+    DM.loadCSS("http://scripts.dailymail.co.uk/static/gunther/1.17.0/rc-main--.css");
+  </script>
+  <noscript><link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/rc-main--.css" /></noscript>
+<![endif] 
+ [if !IE]><! 
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.CssLazyLoad 
+ 
+ class fe.views.fff.CssFFF 
+ [if gte IE 8]><! 
+ 
+ <![endif] 
+ class fe.views.page_modules.Abe 
+ 
+ class fe.views.head_modules.JsPageCriteria 
+ 
+ 
+ class fe.views.head_modules.JsInitVars 
+ 
+ class fe.views.head_modules.JsTwitterVia 
+ 
+ 
+ class fe.views.head_modules.JsDart 
+ 
+ class fe.tracking.rta.JsRTA2 
+ 
+ class fe.views.head_modules.JsFeSync 
+ [if IE 8]>
+  <script src="/ie8.js"></script>
+<![endif] 
+ [if IE 9]>
+  <script src="/ie9.js"></script>
+<![endif] 
+ [if IE]>
+  <script src="http://scripts.dailymail.co.uk/static/gunther/1.17.0/sync_bundle--.js"></script>
+<![endif] 
+ [if !IE]>  
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.JsAdverts 
+  ad-config: http://mads.dailymail.co.uk/v2/us/news/none/article/other/false/config.html  
+ 
+ class fe.views.head_modules.JsFeAsync 
+ [if IE]>
+  <script>
+  (function (src, d, tag){
+    var s = d.createElement(tag), prev = d.getElementsByTagName(tag)[0];
+    s.src = src;
+    prev.parentNode.insertBefore(s, prev);
+    }("http://scripts.dailymail.co.uk/static/gunther/1.17.0/async_bundle--.js", document, "script"));
+  </script>
+<![endif] 
+ [if !IE]>  
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.JsVideo 
+ 
+ [if IE]>
+    <script>
+      DM.loadCSS("http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.css");
+    </script>
+    <noscript><link rel="stylesheet" href="http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.css"></noscript>
+    <script defer src="http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.js"></script>
+  <![endif] 
+ [if !IE]>  
+ 
+ 
+ 
+  <![endif] 
+ class fe.views.head_modules.JsMolFeConfig 
+ class fe.views.head_modules.JsPlatformConfig 
+ 
+ class fe.views.head_modules.JsCookie 
+ 
+ 
+ class fe.views.dynamic_ad_control.InitAds 
+ 
+ 
+ class fe.views.head_modules.JsNavigation 
+ 
+ class fe.views.head_modules.JsTaboola 
+ 
+ class fe.views.head_modules.JsInlineModules 
+ 
+ class fe.views.page_modules.Abe 
+ 
+ class fe.views.body_modules.SetupMobileClass 
+ 
+ class fe.views.masthead_map.MastheadMap 
+ class fe.tracking.rta.JsRTA 
+ 
+ class fe.channel.omniture.Omniture 
+  SiteCatalyst code version: H.20.3.
+    Copyright 1997-2009 Omniture, Inc. More info available at
+    http://www.omniture.com  
+ 
+ 
+ 
+ /DO NOT REMOVE/ 
+  End SiteCatalyst code version: H.20.3.  
+ class fe.views.body_modules.GoogleAnalyticsPageView 
+ 
+ class fe.views.body_modules.TedPageView 
+ 
+ class fe.channel.effective_measure.EffectiveMeasure 
+ class fe.views.mpu_modules.MpuModules 
+ 
+ class fe.views.body_modules.FbRemarketingPixel 
+ 
+ 
+ class fe.views.body_modules.LightboxTarget 
+ 
+ class fe.views.body_modules.TopDivRenderer 
+ class fe.views.body_modules.BannerTop 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sticky_banner.html   ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/ldr_top.html  
+ 
+ class fe.views.masthead.Masthead 
+   
+ 
+ 
+ 
+  Home 
+ 
+ 
+ 
+  U.K. 
+ 
+ 
+   
+   
+ 
+ News 
+ 
+ 
+ 
+  Sports 
+ 
+ 
+ 
+  U.S. Showbiz 
+ 
+ 
+ 
+  Australia 
+ 
+ 
+ 
+  Femail 
+ 
+ 
+ 
+  Health 
+ 
+ 
+ 
+  Science 
+ 
+ 
+ 
+  Money 
+ 
+ 
+ 
+  Video 
+ 
+ 
+ 
+  Travel 
+ 
+ 
+ 
+  Columnists 
+ 
+ 
+ 
+  DailyMailTV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest Headlines 
+ 
+ 
+ News 
+ 
+ 
+ World News 
+ 
+ 
+ Arts 
+ 
+ 
+ Headlines 
+ 
+ 
+ Pictures 
+ 
+ 
+ Most read 
+ 
+ 
+ Wires 
+ 
+ 
+ 
+ My Profile 
+ Logout 
+ 
+ 
+ 
+ 
+ 
+              Login
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    from masthead  
+ class fe.views.nav.Nav 
+ class fe.views.body_modules.ContentDivRenderer 
+ class fe.channel.floating_buttons.FloatingButtons 
+ NEW ARTICLES Home Top Share 
+ class fe.channel.billboard.Billboard 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/billboard.html  
+  show ad 
+ class fe.views.openschema.OpenSchemaContentWrapper 
+ class fe.views.body_modules.ContentRenderer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 NFL stars kneel during anthem in defiance of Trump: Hundreds more including Tom Brady link arms in solidarity as the President says 'disrespectful' players should be FIRED and calls for boycott 
+ 
+ 
+ 
+ 
+ 
+ Mask-wearing gunman kills one woman and wounds seven others in church shooting before a heroic  armed parishioner stops his rampage 
+ 
+ 
+ 
+ 
+ 
+ 'I get turned on by my patients': Gynaecologists' shocking confessions reveal what they're REALLY thinking during an examination 
+ 
+ 
+ 
+ 
+ 
+ Angela Merkel is punished at the ballot box as far-right party enters parliament for the first time - but her party wins the most seats 
+ 
+ 
+ 
+ 
+ 
+ Hillary Clinton says women who support Donald Trump are 'publicly disrespecting themselves' and that the President has been 'worse than I thought he would be' 
+ 
+ 
+ 
+ 
+ 
+ Outrage at Colorado high school football team's mascot who 'flies a Confederate flag and spews racist abuse at opponents' 
+ 
+ 
+ 
+ 
+ 
+ Eight-year-old boy is 'beaten to death with a  hammer by his mom's ex as he tries to stop him sexually assaulting his younger sister' 
+ 
+ 
+ 
+ 
+ 
+ Son who 'killed his mother, grandparents and their caretaker with a baseball bat told cops he had freed them as he was arrested while naked' 
+ 
+ 
+ 
+ 
+ 
+ Bodybuilder, 32, dies after celebrity Muay Thai fight with ex-Singapore Idol contestant after he steps in at the last minute for his first-ever bout  
+ 
+ 
+ 
+ 
+ 
+ French model, 16, who was dubbed the 'most beautiful girl in the world' at the age fo SIX walks the runway for Dolce & Gabbana at Milan Fashion Week 
+ 
+ 
+ 
+ 
+ 
+ Florida Governor Rick Scott DELETED voicemail cries for help from the nursing home where 11 people died in the aftermath of Hurricane Irma after the air conditioning failed  
+ 
+ 
+ 
+ 
+ 
+ Famed bakery Cookie Do is sued over-its 'risk free' treats that one woman claims gave her nausea and diarrhea   
+ 
+ 
+ 
+ 
+ 
+ Trump's NFL allies turn on him: Patriots owner Robert Kraft says he's 'deeply disappointed' with attack on players and furious Rex Ryan rants about being 'p***ed off' with the President  
+ 
+ 
+ 
+ 
+ 
+ 'This guy that we put in charge has tried to divide us once again': LeBron explains why he called Trump 'a bum' and says he HAD to speak out when President withdrew rival Steph Curry's White House invitation 
+ 
+ 
+ 
+ 
+ 
+ 'High school coaches across America today are punished for leading their players in prayer': White House officials back President Trump in face-off with NFL players over National Anthem 
+ 
+ 
+ 
+ 
+ 
+ Stevie Wonder kneels 'for America' and Oakland A's catcher becomes the first baseball player to take a knee during the national anthem as anger at Trump grows 
+ 
+ 
+ 
+ 
+ 
+ 'Death to America!': Tens of thousands of banner-waving North Koreans gather in Pyongyang for anti-US rally after Kim Jong-un exchanged threats with Donald Trump  
+ 
+ 
+ 
+ 
+ 
+ Trump says 'Little Rocket Man' Kim Jong-un 'won't be around much longer' if he dares to strike the US 
+ 
+ 
+ 
+ 
+ 
+ Justin! Melania! Mwah! First Lady gets a VERY familiar welcome from Trudeau as they meet backstage before Invictus games opening ceremony 
+ 
+ 
+ 
+ 
+ 
+ Ted Cruz says he opposes Senate GOP health care plan 'right now' as Republicans' hopes to kill Obamacare grow dimmer 
+ 
+ 
+ 
+ 
+ 
+ Meghan Markle attends her first official engagement with Harry (albeit 18 seats apart) at Invictus Games - and the distracted Prince can't keep his eyes off of her as he sits next to Melania 
+ 
+ 
+ 
+ 
+ 
+ Going solo! Prince Harry leaves Meghan Markle behind to hand out medals at the Invictus Games - after the pair attended their first official engagement together on Saturday 
+ 
+ 
+ 
+ 
+ 
+ Lady in leather! Meghan Markle channels her inner rock chick for her first official engagement with Harry (and the look is world's apart from demure Kate's early days with William) 
+ 
+ 
+ 
+ 
+ 
+ Hikers rescue dog that was stranded alone on a 14,000ft Colorado mountain for SIX WEEKS after running away from its owner 
+ 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Elon Musk 'withdraws divorce papers against wife Talulah Riley' less than one month after pair were spotted holding hands at Allen & Company conference 
+ Elon Musk has reportedly withdrawn divorce papers against his wife Talulah Riley  The  tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are now back together They were seen in July holding hands at the Allen & Company conference in Sun Valley,  Idaho News of their latest reconciliation was first reported by The Mail on Sunday in May  By
+
+ Chris Spargo For Dailymail.com 
+ 
+ 
+ 
+ Published: 
+  22:05 EDT, 4 August 2015
+ 
+ |  
+ Updated: 
+  22:21 EDT, 4 August 2015
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e-mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ shares 
+ 
+   
+           94 
+ View   comments 
+ 
+ 
+ 
+ Elon Musk and wife Talulah Riley are giving the marriage a second shot - for the second time. The South African-born tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are back together after Musk reportedly withdrew divorce papers he filed in January. News of their reconciliation was first reported in May by  The Mail on Sunday . Scroll own for video      
+ 
+ 
+ 
+ 
+ 
+   Back on: Elon Musk has reportedly withdrawn divorce papers against his wife Talulah Riley (pair above in July)     
+ 
+ 
+ 
+ 
+ 
+   Happy day: The tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are now back together (above in 2009) TMZ  reports that Musk has filed a request to dismiss the divorce, and that Riley is on board with the decision. This comes less than a month after the two were spotted holding hands at the annual Allen & Company conference in Sun Valley, Idaho.  The couple also seemed close this past May while in Cannes.  
+ 
+ 
+ RELATED ARTICLES 
+ 
+ Previous 
+ 1 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Then who is going to clean your toilets?' Kelly Osbourne... 
+ 
+ 
+ 
+ Inside the lavish five-day safari wedding of 46-year-old... 
+ 
+ 
+ 
+ EXCLUSIVE: Inside Jill Duggar's life as a missionary in EL... 
+ 
+ 
+ 
+ EXCLUSIVE: Yours for only $60 million ¿ pictures of  the... 
+ 
+ 
+ 
+ 
+ 
+ Share this article 
+ Share 
+ 33  shares 
+ 
+ 
+ 
+ It was there that a source told Mail on Sunday; ‘Her friends think they will now have some kind of commitment ceremony. It’s funny – every time they get back together the celebrations become smaller. ‘I suppose it’s sort of embarrassing in a way, but at the same time really lovely that they just can’t keep away from each other.’ Musk, 44, and Riley, 29, first wed in 2010, at a ceremony held in Scotland, but divorced shortly after in 2012. He announced on Twitter that it had been an ‘amazing’ few years and that he would always love her, paying out $4.2million in a settlement. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ On and off: The pair have been divorced once, and remarried soon after (left in 2013, right in May) Months after the first divorce, they were back together – and remarried in July 2013. But the couple lived apart for much of last year while Talulah wrote and directed her first feature film, Scottish Mussel. Divorce papers were again filed on new Year's Day with the couple insisting that the split was amicable and Musk agreeing to pay $16million in a settlment. It is uncertain if Riley will still see that money, though with an estimated worth of $14billion Musk likely would not miss the money that much.   Prior to his relationship with Riley, Musk was married to Canadian author Justine Wilson. The pair  wed in 2000 and then divorced in 2008. They had five children together - twins Griffin and Xavier, and triplets Damian, Saxon, and Kai. 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/inread_player.html  
+ 
+ Read more: 
+ 
+ PayPal's Elon Musk falls for wife Talulah Riley a THIRD time | Daily Mail Online 
+ Elon Musk -- Third Time's a Charm ... Pulls Plug on Divorce Again! | TMZ.com 
+ 
+ 
+ 
+ 
+ 
+ Share or comment on this article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e-mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             Most watched   News videos                     Trump tells fans to boycott NFL games where players protest                   Ariel footage shows the dam failure in Puerto Rico                   Moment police officers deal with acid attack in Stratford                   NFL players kneel for the anthem days after Trump's criticism                   GRAPHIC CONTENT: Cops shoot dead man outside 7-Eleven                   Final footage of Brit Emma Kelty kayaking before her death                   Woman caught on video beating driver unconscious on roadside                   Prince Harry and Melania Trump meet for first time in Toronto                   Shocking moment woman hit by tram at a crossing while on her phone                   Shocking footage shows ISIS terrorists blown up inside a tank                   Burglar breaking into shop gets hit by car as he's running away                   Hero shot dead trying to defend elderly man cutting his lawn                   
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/under-article-wide.html  
+ 
+ 
+               Pictured: Stratford shopping centre doors covered in acid...             Diana was a 'dynastic disaster': Jaw-dropping letter...             The mummy of all mysteries...solved: Archaeologists...             American football stars playing at Wembley defy Donald...             Woman, 22, who lost her leg in horrifying Alton Towers...             Several people are injured after a ‘massive’ gas...             'The hardest day ever': Grandmother of two baby triplets...             Last pictures of British head teacher murdered in the...             Travellers ‘steal Frank Bruno’s water supply’ forcing the...             A HUNDRED NFL stars kneel during anthem in defiance of...             Expert reveals how Prince Harry's body language showed he...             BBC crew member was MINUTES from death after being bitten...             Former cricketer Shane Warne is accused of hitting a porn...             It's spreading! Stevie Wonder kneels 'for America' in...             Amanda Holden's revealing BGT outfit overtakes Russell...             Runaway bride who was accused of fleeing with her...             The crack of dawn! Dozens of skinny dippers welcome...             Only Fools and Horses star Sir David Jason, 77, seen with...           MOST READ NEWS     Previous   Next     ●   ●   ●   ●               
+ 
+ 
+ 
+ 
+ More top stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bing 
+ 
+ 
+ Site 
+ Web 
+ 
+ 
+ Enter search term: 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_top.html  
+ 
+ 
+ 
+ 
+ Like 
+ DailyMail 
+ 
+ 
+ 
+ 
+ Follow 
+ MailOnline 
+ 
+ 
+ 
+ 
+ Follow 
+ DailyMail 
+ 
+ 
+ 
+ 
+ +1 
+ DailyMail 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/half_mpu_top.html  
+ 
+ 
+   
+   
+ Femail Today 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What are they celebrating? Scott Disick, 34, and Sofia Richie, 19, kiss in front of a 'congratulations' cake
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Controversial French model, 16, who was dubbed the 'most beautiful girl in the world' at the age of SIX walks the runway at Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Staying mum! Kim Kardashian and Kanye West enjoy date night ahead of baby's arrival... but refuse to answer questions about Kylie's 'pregnancy'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hot metal! Kate Hudson flashes sideboob in slinky silver gown as she attends the debut of Marshall with boyfriend Danny Fujikawa
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Pregnant' Kylie Jenner swamps her 'bump' in an oversized top as she steps out to support beau Travis Scott at iHeartRadio Music Festival
+           
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/native_puff.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Marriage is hard!' Brian Austin Green opens up about the reality of life with wife Megan Fox and their three kids
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Undercover model! Linda Evangelista is unrecognizable as she jets out of New York... as the rest of the original supers return to the catwalk
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Stunning Meghan Markle attends her first official engagement with Harry (albeit rows apart) at Toronto's Invictus Games - as Melania Trump sits next to Royal
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Meghan Markle channels her inner rock chick for her first official engagement with Harry (and the look is world's apart from demure Kate's early days)
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sean 'Diddy' Combs, 47, cuts a dapper figure in studded suit as he steps out with leggy girlfriend Cassie, 30, at birthday celebration in West Hollywood
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Jonathan Rhys Meyers and his wife Mara Lane put on a united front as they make a rare red carpet appearance together... after getting through miscarriage
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_10.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          From catwalk to runway! Bella Hadid cuts a casual figure to jet out of Italy as Milan Fashion Week comes to a stylish close
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ralph Fiennes is given Serbian passport by country's president in thanks for filming in the country 
+           
+          Was granted citizenship in the Balkan state 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Make-up free Eva Longoria looks a far cry from her usual glamorous displays as she opts for comfort while attending a pal's party in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Jason Derulo's Los Angeles mansion targeted: $300k of cash and jewlery stolen while singer was out of town
+           
+          His team said other items were stolen
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Suits you! Olivia Munn flaunts her perfect figure in a tailored two-piece
+           
+          The actress, 37, was spotted looking stunning in plaid 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Fashion royalty! Princess Diana's niece Lady Kitty Spencer dons a gold crown as she walks the Dolce & Gabbana show at Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Just married! Teen Mom 2's Jenelle Evans looks stunning in romantic wedding gown as she ties the knot with David Eason
+           
+          She looked stunning 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Beautiful in black! Rose McGowan looks leggy as she parties the night away with pal Carolina Levi
+           
+          Turned heads in the split black cocktail dress
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Brooklyn Beckham's ex Sonia Ben Ammar makes a bold style statement in floral panelled skirt and silk bustier top at Dolce & Gabbana MFW show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hailey Baldwin is sexy and sophisticated in chiffon gown secured by raunchy leather corset as she storms the Dolce & Gabbana SS18 runway in Milan
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_20.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          That's his girl! Doting dad Kanye West holds North's hand as they head to father-daughter movie night
+           
+          North West could hardly contain her excitement 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ab fab! Anthony Bourdain, 61, and girlfriend Asia Argento, 42, show off chiseled midriffs in Rome
+           
+          They both have enviable bodies 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Travis Scott keeps it lowkey in T-shirt and jeans at iHeartRadio Music Fest... the day after Kylie Jenner's 'pregnancy' news
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'This is the last': James Corden admits his third child will complete his family with wife Julia Carey... after the couple revealed they are expecting a baby girl
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Mama, I love you! Mel B dazzles in gold beaded gown as she puts on a giggly display with mother Andrea Brown at charity gala in LA  
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bikini-clad Lottie Moss displays her slender physique in sultry new social media post as she makes an appearance on Laguna Beach
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/bvp_puff_26.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'He is keen to get his reputation cleared up': Stephen Belafonte 'set to show footage of ex-wife Mel B doing bitter divorce battle rages on
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Quentin Tarantino, 54, holds hands with fiancee Daniella Pick, 33, as they reunite with film stars Diane Kruger, Uma Thurman, and Bruce Willis
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Madonna's son Rocco Ritchie, 17, shows off his impressive skateboarding skills as he steps out in London... amid claims he is moving to New York
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Gigi Hadid channels her inner rock chic as she gets snap happy with adoring fans during Tommy Hilfiger store opening in Denmark
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_30.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We are doing okay': Audrina Partridge thanks fans and credits daughter Kirra for helping her get through split from husband Corey Bohan
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sssstrut like you mean it! Braless Bella Hadid stuns in a plunging snakeskin print dress as she takes the runway for Salvatore Ferragamo SS18 at MFW
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Wearing her heart on her sleeve! Miley Cyrus steps out in TWO ensembles patterned with hearts at the iHeartRadio Festival in Las Vegas
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Nikki Reed gets kiss on the cheek from husband Ian Somerhalder at EMA Awards...after issuing joint apology over birth control story
+           
+          Looked very much in love
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sienna Miller ditches the glamour in favor of T-shirt and trainers as she makes a surprisingly casual exit following another West End performance 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hailey Baldwin puts on a leggy display in racy thigh-high silk boots and oversize blazer as she takes a break from the catwalk during Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Looking dreamy! Lea Michele slips into robe-inspired number and studded heels for ABC Tuesday Night Block Party event
+           
+          Looked in high spirits
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Girl time! Kourtney Kardashian sports crop top as she shops with daughter Penelope...after reports of Kylie Jenner's 'pregnancy'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Debra Messing is chic in silk as she joins forces with Will & Grace co-stars Megan Mullally, Eric McCormack and Sean Hayes at Tribeca Film Fest
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Suits them! Sisters Sara and Erin Foster are pretty in pink as they attend celeb-packed Vanguard Awards alongside stylish EJ Johnson
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Giddy up! Kesha is a country cowgirl as she attends and performs at the iHeartRadio Music Festival 
+           
+          She released her third album last month
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          That's a lot of front! Chrissy Teigen shows some SERIOUS cleavage in glittering and plunging gold frock as she posts playful Snapchat video
+           
+          Extremely low-cut dress
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Happy and healthy! Selena Gomez shows off fall style in khaki trench coat while in NYC as her kidney donor regains strength
+           
+          Out and about 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Scott Disick, 34, locks lips with Sofia Richie. 19, as they set sail in Miami...after partying with Kylie Jenner's 'baby daddy' Travis Scott
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Nikki Reed and Ian Somerhalder issue joint apology for 'goofy' birth control story...after husband was slammed by writer for 'forcing' her into pregnancy
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_45.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Red hot! Viscountess Weymouth flashes her legs in a ruffled cocktail dress as she enjoys a night out with her aristocrat husband at Loulou's in London
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Justin! Melania! Mwah! First Lady gets a VERY familiar welcome from Trudeau and his family as they meet backstage before Invictus games opening ceremony
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Stevie takes a knee: Pop music legend begins his appearance at a concert in New York's Central Park by making the political statement 'for America'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          So fly! LeAnn Rimes showcases fit physique in ripped tank top and jeans as she jets into LA
+           
+          The 35-year-old country singer looked fantastic as she arrived 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Age-defying! Cindy Crawford, 51, looks youthful in chic dress during outing with children Kaia and Presley Gerber in Milan for Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Unfazed! Tyga goes to see The LEGO Ninjago Movie with sweet son King Cairo...after news breaks of his ex Kylie Jenner's 'pregnancy'
+           
+          Father-son day 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's doing something white! Joanne Froggatt sizzles in plunging trouser suit as she promotes hit BBC drama Liar in New York City 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Baby daddies unite! Travis Scott parties in Miami with Scott Disick... as the 'moment he found out' about Kylie Jenner's pregnancy is unearthed on Twitter
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Pregnant' Kylie Jenner masks her 'bump' in oversized T-shirt and cargo pants as she is spotted for FIRST TIME since announcement of 'baby with Travis Scott'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Her biggest fan! Demi Moore is luxurious in lace as she supports daughter Rumer Willis at Empire event
+           
+          Marking Fox's New Fall lineup 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Perrie Edwards forced to pull out of Little Mix performance in Las Vegas after being rushed to hospital with 'gastric problem'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The love club! Lorde performs with special guests Jack Antonoff and Khalid at the iHeartRadio Music Festival in Las Vegas
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Her own best advert! Gwen Stefani rocks a No Doubt tank top and skin tight jeans before jetting out of LA
+           
+          Lead singer of the band since the late eighties
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          On cloud nine! Natalie Portman hits fashion high note in sleeveless white shift dress as she attends EMA Awards
+           
+          Glamorous in Santa Monica, California
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bumping along nicely! Pregnant Jaime Pressly showcases her twin baby bump in sporty gear at Safety Awareness event
+           
+          Was glowing 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hello sunshine! Karrueche Tran brightens up star-studded EMA Awards in a ruffled yellow chiffon dress with plunging neckline
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Good Lorde! Melodrama hitmaker bares her shoulders and flaunts svelte frame in black maxi-dress at the iHeartRadio Music Festival
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          GIRL ABOUT TOWN: Meghan's ex makes a comedy... about his ex marrying a Royal
+           
+          Her ex-husband Trevor Engelson is making the risque show 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Flares for style! Emma Roberts steps out in black bell bottom trousers and off-the-shoulder top as she grabs green juice 
+           
+          Looking casual in LA 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Busty Rihanna shows off her enviable curves in a low-cut floral dress with sexy cut out detailing as she launches Fenty beauty in Madrid
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bella Hadid goes braless under snakeskin print dress as she stuns backstage at the Salvatore Ferragamo show during Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kiss from a Rose! Amber puckers up with BFF Blac Chyna as they enjoy girls night out in Atlanta
+           
+          They have been BFFs forever
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          PICTURED: Audrina Patridge moves into her parents' house amid messy split from Corey Bohan who 'refuses to move out of home she owns'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Dress to Empress! Taraji P. Henson smolders in sheer plunging top and sparkling maxi skirt at Empire season kick-off celebration
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Marriage to John was a lesson in how much LOVE HURT: He betrayed her in the cruelest way  but the actor's ex-wife  reveals how her love for him will never die 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ageless beauty! Elsa Pataky, 41, flaunts her fit physique and trim pins in tiny shorts as she attends Glamour Sport Summit event in Spain
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Giving back! Hugh Jackman and wife Deborra-Lee Furness wear matching black outfits as they co-host Global Citizen Festival in New York
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          How Prince Harry's body language showed he was restrained and around a nervous Melania but was more masculine and normal with Michelle Obama
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Apprehensive Prince Harry becomes first Royal Family member to meet a Trump since the election as he greets the First Lady in Toronto at the Invictus Games
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Prince Harry gets taken round a track by five-year-old girl in a mini Land Rover ahead of the Invictus Games in Toronto 
+           
+          Royal was impressed 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Walking on sunshine! Selma Blair cuts effortlessly chic figure in powder blue dress during weekend stroll with sweet new dog
+           
+          Looking very chilled 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I just don't know': Lady Gaga fears she may not be able to have children as a result of her chronic pain condition and hip surgery
+           
+          New documentary
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pretty Little Liars star Tammin Sursok rocks patterned mini dress as she steps out with husband Sean McEwen and three-year-old daughter Phoenix
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She's a pain but she has a good heart': Simon Cowell 'gives Mel B a $2.4m contract for another year at America's Got Talent'... as divorce battle rages
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The Sopranos star Jamie-Lynn Sigler shows off growing baby bump as she takes son Beau to little league game with hubby Cutter Dykstra
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Flower power! Priyanka Chopra flashes hint of cleavage in low-cut floral print dress and thigh-high boots at Global Citizen Festival 
+           
+          Very stylish 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pretty in pink! Demi Lovato showcases sensational physique in bold cocktail dress as she attends star-studded Global Citizen Festival
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Putting her best foot forward! Bendy Paris Jackson effortlessly smokes a cigarette using toes on Instagram
+           
+          Managed to pull off this impressive feat
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Prince Harry's girlfriend Meghan Markle's ancestor was a 'royal maid' at Windsor Castle 
+           
+          Great-great-grandmother, Mary Bird
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          GIRL ABOUT TOWN: Duchess of Cambridge's younger brother tries his hand at printing wrapping paper after marshmellow business fails
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We became a dynamic duo': Dance Moms star Maddie Ziegler reveals appearing in Sia's Chandelier music video changed her life
+           
+          Prodigious star
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Revving up the style stakes! Lewis Hamilton unveils his boldest look to date in a checked anorak and shorts as he storms Missoni SS18 show during MFW
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Diana was a 'dynastic disaster': Jaw-dropping letter reveals how Charles sought a second opinion on his wife after 'mystery ilness' diagnosis 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Her Hero! Mariah Carey gets a helping hand from beau Bryan Tanaka as she goes underwear-free in racy LBD
+           
+          Revealing outfit
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lady Amelia Windsor dazzles in a polka dot gown for Dolce & Gabbana's MFW show... after the royal was snapped up for the fashion house
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I refuse to see another woman with my baby': Chrissy Teigen reveals the number one reason she will never divorce John Legend
+           
+          Together forever
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We are so thrilled and excited': How I Met Your Mother star Lyndsy Fonseca expecting first child with husband Noah Bean
+           
+          'Thrilled and excited'
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Family time! Doting mom Natalie Portman takes a stroll with baby Amelia with her parents by her side in Santa Monica
+           
+          Quality family time 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Colin Firth becomes an Italian citizen after being left 'horrified' by Brexit and saying that leaving the EU 'does not have a single positive aspect'
+           
+          Kingsman star 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Leggy Hailey Baldwin dazzles in over-sized patterned cardigan and low-cut vest as she storms the runway for Missoni's Milan Fashion Week show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          David Wenham admits he once pushed a teacher into having a nervous breakdown... as he gushes about fellow Australian star Nicole Kidman
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Three's company: Suki Waterhouse dazzles in a chic shift dress as she joins model sisters Immy and Maddi at Salvatore Ferragamo's MFW show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Weekend warrior': Pregnant Jessica Alba flaunts her baby bump in skin-tight tank after documenting workout on Instagram
+           
+          After a grueling workout
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Friday night!' Jennifer Lopez flaunts her figure in busty skintight dress while in Vegas for her residency
+           
+          Showed off her incredible dancer's body
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Usher celebrates wedding anniversary amid $80M lawsuit claims he gave STD to a man he slept with at LA spa and woman who gave birth to twins
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Star in stripes! Kate Hudson steps out in colorful two-piece ensemble in Manhattan
+           
+          The 38-year-old was photographed in the TriBeCa area of NYC
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Date night! Robin Thicke, 40, treats pregnant girlfriend April Love Geary, 22, to dinner in LA
+           
+          The singer, 40, looked happier than ever
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Keeping them buzzing! Kate Hudson shows off  shaved head and a bit of underboob in jumpsuit with cutout while out with beau Danny Fujikawa
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kylie Jenner's family is 'worried she is too young and naive to have a baby' amid claims she's pregnant by boyfriend Travis Scott
+           
+          Reportedly 'concerned'
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kendall and Kris Jenner keep a low profile as they exit Milan airport... after Kris reveals 'surprise' at reports her youngest is 'pregnant'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Ladies she's 20': Lena Dunham says many of her female friends have been 'triggered' by Kylie Jenner's pregnancy news
+           
+          'We were all v fertile then'
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Do you think killing an unborn baby is ok?' Perez Hilton sparks outrage after he cruelly insists 'pregnant' Kylie Jenner should have an ABORTION
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Girls just wanna have fun': Model Winnie Harlow boldly strips down to her skimpy underwear as she flaunts her pert derriere in sizzling mirror snap
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bella Hadid flaunts her incredibly toned abs in sexy crimson crop top as she steps out in Milan between Fashion Week commitments
+           
+          Looked sensational
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Slender Mel B displays her lithe frame in a white catsuit with daring side cut-outs... after going 'Instagram official' with hairstylist by sharing THAT kissing shot
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Abs-flashing Chloe Green sports a sparkler on wedding finger on date night with 'Hot Felon' beau Jeremy... after denying engagement rumors
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Clooney turns on Clinton: Actor says he never saw Hillary 'elevate her game' and claims he had lots of liberal friends who thought she wasn't good
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          New couple Halsey and G-Eazy hold hands on date night in LA... following rapper's split from Lana Del Rey
+           
+          Donned an eye-catching ensemble
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          It's a beautiful bromance! Peter Kraus and Dean Unglert of The Bachelorette are inseparable as they reunite in Las Vegas
+           
+          Once were competitors
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Hi girls': Bill Nye surprises group of bikini-clad revelers as he walks into elevator while they're twerking for Snapchat
+           
+          The Science Guy
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kendall Jenner puts on a scintillating display in deeply plunging swimsuit as she's joined by busty pal Gigi Hadid at Bottega Veneta's MFW show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Soul star Charles Bradley dies aged 68 after battle with cancer
+           
+          He had triumphantly returned to the stage after a stomach cancer diagnosis a year ago
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Liam Payne, 24, declares himself 'biggest winner' for romance with 'amazing' Cheryl, 34... as he reveals heavy drinking led to 'fat jibes' in 1D
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Bagpipes are NOT Irish!' Chloë Grace Moretz suffers epic Twitter fail as she confuses Scotland and Ireland... to hilarious reaction from fans
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bonding time! Chrissy Teigen rocks a clinging floral number while out with daughter Luna (and  the baby girl makes a cute facial expression)
+           
+          Devoted mom and wife
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kylie Jenner is pregnant: Reality star, 20, 'expecting a baby with boyfriend Travis Scott'
+           
+          Youngest of the Jenner/ Kardashian sisters
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Tyga spotted  for the first time since ex Kylie Jenner's 'pregnancy' news... after deleting snap claiming to be the father
+           
+          He was out shopping
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kylie Jenner's mother Kris expresses 'surprise' at waking up to news that her youngest child is pregnant with beau Travis Scott's baby
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Nothing she does annoys me!' Russell Brand reveals he adores being a new dad to baby Mabel and the clucky comedian has long 'loved being around kids'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Only Fools and Horses star Sir David Jason, 77, seen with bodyguards as it is revealed he is getting round-the-clock protection after 'a threat is made against him' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kendall and Kris Jenner keep it casual chic while leaving the Versace fashion show in Milan... hours after of Kylie's 'pregnancy' revelation
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_middle.html  
+ 
+ 
+   
+   
+ DON'T MISS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Golden girl! Heidi Klum shows off her toned legs in a shiny fringed mini dress at  star-studded iHeartRadio Music Festival in Las Vegas
+           
+          She's still got it
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I need to find out which episode am I in first!' Alex Rodriguez avoids answering  if he's planning to propose to Jennifer Lopez soon
+           
+          Could it be soon?
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Flower power! Beyonce proudly puts her cleavage and curves on display in low-cut top and midi skirt for a romantic date night with Jay Z
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kim Kardashian flashes midriff in gray during outing with kids North and Saint... as it's reported that sister 'Kylie Jenner is pregnant'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kooky Harry Styles makes a statement in a retro diamond-print suit as he puts on an energetic performance at iHeartRadio Music Festival in Las Vegas
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Ciao Milano!' Model Shanina Shaik dresses down in airport selfie after strutting her stuff on the catwalk at Milan Fashion Week 
+           
+          Striking a pose
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ageless Elle Macpherson looks youthful in a casual jeans and T-shirt ensemble as she goes make-up free on errand run in Miami
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Date night! Christina Milian flaunts her toned midsection in cropped hoodie while enjoying dinner at Catch LA with French singer Matt Pokora
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Country meets couture! Singer Thomas Rhett is joined by  adopted daughter Willa Gray at his pop-up shop in LA
+           
+          Father-of-two
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Nick and Vanessa Lachey look fit in their athleisure as they sign autographs while leaving DWTS rehearsals in LA
+           
+          Looked refreshed
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Comfortable customer! Angelina Jolie waves to a few fans  as she tries to keep low-profile while heading to movies in oversized black sweater
+           
+          Seeing the latest film 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Making the sidewalk her runway! Model Karlie Kloss pairs skinny jeans with personalized denim jacket for NYC outing
+           
+          The 25-year-old model looked very chic 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE: 'I love waking up next to her... She's a hot mom!' Cash Warren gushes about pregnant wife Jessica Alba as the couple prepare for a third child 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I feel like 30 is too late': Kylie Jenner, 20, has  always wanted to be a young mom... as she is 'expecting a baby with boyfriend Travis Scott'
+           
+          Big news for Kylie 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'What if the twist is that Kylie is Kim and Kanye's surrogate?' Internet goes wild with memes after Kylie Jenner announces she is pregnant
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Iskra Lawrence sizzles in sexy swimsuit snap... as she blames 'societal ideals and expectations of perfection' for her former body battles
+           
+          Empowering women
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sheer glamour! Elsa Hosk, Shanina Shaik and Ashley Graham flash their racy undergarments as they top a glittering guestlist at Vogue Italia MFW bash
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's smashed! Princess Beatrice has plates broken over her head as part of a Greek tradition while enjoying a holiday on the island of Simi 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Doutzen Kroes looks incredible as she showcases her endless legs in a sultry backless dress as she storms the Versace catwalk during Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ravishing in red! Kat Graham puts on an eye-popping display in crimson off-the-shoulder number at Vogue Italia MFW bash
+           
+          Looked fabulous 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Someone's got a little attitude today!': Ellen DeGeneres skewers Taylor Swift in Look What You Made Me Do spoof
+           
+          Hilarious take 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Natalie Portman is a classic beauty as she dotes on daughter Amalia during a day with friends
+           
+          The Oscar winner doesn't do mom jeans
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Where's Leo? Toni Garrn steps out without DiCaprio after enjoying friendly dinner with ex-boyfriend
+           
+          The 25-year-old model opted to keep it casual 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Naomi Campbell works a casual look as she goes braless... before undergoing quite the transformation to storm the Versace catwalk
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Check her out! Demi Lovato flashes her toned tummy in white lace-up bralette under plaid suit as she performs in New York
+           
+          Looked fantastic
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Audrina Patridge 'devastated' over split as estranged husband Corey Bohan is seen shirtless arguing with her dad after she takes out restraining order
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cooling down! Kevin Hart's sex tape partner Montia Sabbag is seen in sexy green bathing suit after hiring lawyer to deny she's a 'sextortionist'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I murdered my wife': Netflix unveils skin-crawling new trailer for 1922 based on Stephen King novella
+           
+          Story of a farmer who kills his wife
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Baby's first outing! The Hills vet Whitney Port is spotted taking son Sonny on errands in LA with her mother by her side
+           
+          Out for the first time
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Helena Christensen, 48, flaunts her age-defying beauty in a showstopping golden gown as she makes 'emotional' return to Versace
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Princess Charlene puts on a dazzling display in a daring dress and some VERY painful heels, as she sits on the front row at Versace's Milan Fashion Week 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          That Friday feeling! Pregnant Rose Byrne strolls with husband Bobby Cannavale and son Rocco
+           
+          Spent a quiet few hours running errands 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE: George Clooney, Heidi Klum and Ryan Gosling line up behind film mogul Harvey Weinstein in row over AIDS charity auction proceeds
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Risky ride! Daring dad Liev Schreiber puts BOTH his sons on his bicycle as he zooms through New York City... but at least the kids have helmets on
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Emily Ratajkowski flaunts her taut midriff in ab-flashing crop top as she leads the stylish arrivals to the Versace show during Milan Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Couture is an attitude': Gwen Stefani lets her sweater do the talking as she steps out in LA after unveiling Christmas album
+           
+          Kept it casual in black 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          My how she's changed! Pink covers up in funky outfit... before posting risque image in lingerie from 2001 with former foe Christina Aguilera
+           
+          Wore a funky ensemble
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Mandy Moore stands out in bold purple dress as she films This Is Us with co-star Milo Ventimiglia...just days before season two premiere
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Beyonce's team insists she was 'justified' to sample dead rapper on Formation... after his estate sues for $20m
+           
+          Beyonce's team has responded
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kevin Hart's sex tape partner Montia Sabbag filmed performing VERY raunchy pole dance... as she denies being a stripper
+           
+          Footage unearthed 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Smitten Dev Patel holds hands with leggy girlfriend Tilda Cobham-Hervey on a relaxed day out in Beverly Hills
+           
+          Tilda worked her casual style for the occasion
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'll bring thunder, I'll bring rain!' Kesha belts out powerful performance of her emotional track Praying on Ellen DeGeneres' show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kendall Jenner flashes her toned abs in a lacy printed bra as she joins sisters Gigi and Bella Hadid in leading the glamour at Versace SS18 MFW show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Back to being best friends! Kyle and Kim Richards on good terms after sibling rivalry on Real Housewives Of Beverly Hills as they hit Skydog Sanctuary
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Crazy in love! Today show host Hoda Kotb, 53, brazenly leaves the studio with a life-size cardboard cutout of her crush Blake Shelton under her arm
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lottie Moss showcases her sideboob in VERY sultry swimwear snap... as she is spotted make-up free during park workout 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          White hot! Justin Bieber's ex Chantel Jeffries steals Kim Kardashian's style again as she leaves Poppy in West Hollywood
+           
+          Former fling 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          PICTURE EXCLUSIVE: Scott Disick, 34, receives kiss from Sofia Richie, 19, as they watch romantic sunset together on Miami hotel room balcony
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She's a wonderful actress!': Catherine Zeta-Jones, 47, says daughter, 14, she has with Michael Douglas wants Hollywood career
+           
+          Like her parents
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I love to exercise and I have a nutritionist!': Flip Or Flop's Christina El Moussa explains how she keeps her figure... after holding hands with new beau
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Fabulous in florals! Queen Letizia of Spain looks chic in a delicate pink day dress as she steps out for a charity event in Madrid
+           
+           She looked radiant
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Giggling Sofia Vergara puts on a busty display in low-cut animal print top as she films Thanksgiving scene for Modern Family in Lake Tahoe
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          From Katy Perry's Halloween-inspired shoe collection to supermodel Niki Taylor's coveted dress, FEMAIL rounds up the fashions that got our attention this week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ Today's headlines 
+ 
+ 
+   
+   
+ Most Read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A HUNDRED NFL stars kneel during anthem in defiance of Trump: Hundreds more including Brady link arms in... 
+ 
+ 
+ 
+ 
+ 
+ BREAKING NEWS: At least one shot dead and seven injured as gunman opens fire in mass shooting at Tennessee... 
+ 
+ 
+ 
+ 
+ 
+ 'I get turned on by my patients': Gynaecologists' shocking confessions reveal what they're REALLY thinking... 
+ 
+ 
+ 
+ 
+ 
+ Hillary Clinton says women who support Donald Trump are 'publicly disrespecting themselves' and that the... 
+ 
+ 
+ 
+ 
+ 
+ Angela Merkel is punished at the ballot box as far-right party enters parliament for the first time - but... 
+ 
+ 
+ 
+ 
+ 
+ Outrage at Colorado high school football team's mascot who 'flies a Confederate flag and spews racist abuse... 
+ 
+ 
+ 
+ 
+ 
+ Eight-year-old boy is beaten to death with a hammer as he tries to protect his younger sister from being... 
+ 
+ 
+ 
+ 
+ 
+ Son who 'killed his mother, grandparents and their caretaker with a baseball bat told cops he had freed them... 
+ 
+ 
+ 
+ 
+ 
+ Bodybuilder, 32, dies after celebrity Muay Thai fight with ex-Singapore Idol contestant after he steps in at... 
+ 
+ 
+ 
+ 
+ 
+ Controversial French model, 16, who was dubbed the 'most beautiful girl in the world' at the age of SIX... 
+ 
+ 
+ 
+ 
+ 
+ Florida Governor Rick Scott DELETED voicemail cries for help from the nursing home where 11 people died in... 
+ 
+ 
+ 
+ 
+ 
+ Famed bakery Cookie Do is sued over-its 'risk free' treats that one woman claims gave her nausea and... 
+ 
+ 
+ 
+ 
+ 
+ Trump's NFL allies turn on him: Patriots owner Robert Kraft says he's 'deeply disappointed' with attack on... 
+ 
+ 
+ 
+ 
+ 
+ 'This guy that we put in charge has tried to divide us once again': LeBron explains why he called Trump a... 
+ 
+ 
+ 
+ 
+ 
+ White House officials back President Trump in face-off with NFL players taking the knee during National... 
+ 
+ 
+ 
+ 
+ 
+ It's spreading! Stevie Wonder kneels 'for America' in defiance of the President at Central Park gig while... 
+ 
+ 
+ 
+ 
+ 
+ 'Death to America!': Tens of thousands of banner-waving North Koreans gather in Pyongyang for anti-US rally... 
+ 
+ 
+ 
+ 
+ 
+ Trump says 'Little Rocket Man' Kim Jong-un 'won't be around much longer' if he dares to strike the US 
+ 
+ 
+ 
+ 
+ 
+ Justin! Melania! Mwah! First Lady gets a VERY familiar welcome from Trudeau as they meet backstage before... 
+ 
+ 
+ 
+ 
+ 
+ 'Trump wants to fire all black athletes with an opinion so we will only be left with NASCAR': President is... 
+ 
+ 
+ 
+ 
+ 
+ Meghan Markle attends first official engagement with Harry (albeit 18 seats apart ) at Invictus Games - and... 
+ 
+ 
+ 
+ 
+ 
+ Expert reveals how Prince Harry's body language showed he was restrained and cautious around a nervous... 
+ 
+ 
+ 
+ 
+ 
+ Lady in leather! Meghan Markle channels her inner rock chick for her first official engagement with Harry... 
+ 
+ 
+ 
+ 
+ 
+ Hikers rescue dog that was stranded alone on top of a 14,000ft Colorado mountain for SIX WEEKS after running... 
+ 
+ 
+ 
+ 
+ 
+ World does NOT end on Saturday despite doomsday prophet's prediction... and even he tried to change his mind... 
+ 
+ 
+ 
+ 
+ 
+ Must have been a tough read! Library book that was due in 1938 is returned 79 YEARS later - but the... 
+ 
+ 
+ 
+ 
+ 
+ He's at it again! Graphic designer trolls a new crop of clients by taking their photo editing requests VERY... 
+ 
+ 
+ 
+ 
+ 
+ Scientists find chunks of POLYSTYRENE near the North Pole in damning evidence of just how far plastic... 
+ 
+ 
+ 
+ 
+ 
+ Air Force lieutenant and undercover cop among several who claim they were forcibly arrested for being St.... 
+ 
+ 
+ 
+ 
+ 
+ MORE HEADLINES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+            The mummy of all mysteries...solved: Archaeologists uncover secrets of how mankind pulled off one of its most awesome miracles - the Great Pyramid of Giza 
+             
+ 
+ 
+ 
+   
+            Pictured: Stratford shopping centre doors covered in acid after gang sprayed crowds with noxious substance injuring six in frightening mass attack
+             
+ 
+ 
+ 
+   
+            Diana was a 'dynastic disaster': Jaw-dropping letter reveals how Charles sought a second opinion on his troubled wife as an 'army' of doctors dosed Princess with drugs - after diagnosing 'dangerous' genetic illness 
+             
+ 
+ 
+ 
+   
+            American football stars playing at Wembley defy Donald Trump and drop to their knees during US national anthem after President said sportsmen who show 'disrespect' should be FIRED 
+             
+ 
+ 
+ 
+   
+            A HUNDRED NFL stars kneel during anthem in defiance of Trump: Hundreds more including Brady link arms in solidarity as the President says 'disrespectful' players should be FIRED and calls for boycott 
+             
+ 
+ 
+ 
+   
+            Expert reveals how Prince Harry's body language showed he was restrained and cautious around a nervous Melania but was comfortable, masculine and his normal self with Michelle Obama
+             
+ 
+ 
+ 
+   
+            It's spreading! Stevie Wonder kneels 'for America' in defiance of the President at Central Park gig while Bruce Maxwell becomes first big league baseball player to take a knee during national anthem
+             
+ 
+ 
+ 
+   
+            Last pictures of British head teacher murdered in the Amazon by villagers who begged: Don't go alone 
+             
+ 
+ 
+ 
+   
+            'The hardest day ever': Grandmother of two baby triplets who died in 'tragic accident' tells of her pain as police rule out carbon monoxide poisoning
+             
+ 
+ 
+ 
+   
+            Virginia woman facing three months recovery time after being bitten by a venomous copperhead snake outside a steakhouse 
+             
+ 
+ 
+ 
+   
+            'This guy that we put in charge has tried to divide us once again': LeBron explains why he called Trump a bum and says that he had to speak out when the president attacked rival Steph Curry and the sport he loves 
+             
+ 
+ 
+ 
+   
+            US residents from New York to the Carolinas are urged to monitor Hurricane Maria which could bring 7ft waves to the East Coast after overpowering dams and devastating homes in Puerto Rico
+             
+ 
+ 
+ 
+   
+            Usher celebrates wedding anniversary as herpes drama heats up with $80M lawsuit amid claims he gave STD to a man he slept with at LA spa and woman who later gave birth to stillborn twins
+             
+ 
+ 
+ 
+   
+            'Let go of my gun!' New footage shows cop in desperate struggle with 'depressed' Navy veteran who 'tried to steal his pistol' before being shot dead in shocking viral video 
+             
+ 
+ 
+ 
+   
+            Vacation like a Bond villain: The race is on to build the most luxurious superyacht-style submarine with price tags running over $2BILLION
+             
+ 
+ 
+ 
+   
+            Former Democrat Congresswoman calls for ALL NFL players to kneel on Sunday 'against the white supremacist who squats in our White House'
+             
+ 
+ 
+ 
+   
+            Sadiq Khan's Uber ban 'could breach race laws as more than 90% of drivers are from minorities' say campaigners as 20,000 of the firm's workers email the London mayor
+             
+ 
+ 
+ 
+   
+            Hikers rescue dog that was stranded alone on top of a 14,000ft Colorado mountain for SIX WEEKS after running away from its owner
+             
+ 
+ 
+ 
+   
+            BBC crew member was MINUTES from death after being bitten by killer spider on set of Our Girl in Malaysia, leaving star Michelle Keegan 'threatening to pull out of filming' as she feared for her safety
+             
+ 
+ 
+ 
+   
+            World does NOT end on Saturday despite doomsday prophet's prediction... and even he tried to change his mind at the last minute!
+             
+ 
+ 
+ 
+   
+            Justin! Melania! Mwah! First Lady gets a VERY familiar welcome from Trudeau as they meet backstage before Invictus games opening ceremony
+             
+ 
+ 
+ 
+   
+            Several people are injured after a ‘massive’ gas explosion at a guest house in Blackpool
+             
+ 
+ 
+ 
+   
+            Third earthquake in Mexico this month results in 5 dead - including a man killed by bees and two women who died of heart attacks as volcano near capital spews ash into sky
+             
+ 
+ 
+ 
+   
+            BREAKING NEWS: At least one shot dead and seven injured as gunman opens fire in mass shooting at Tennessee church 
+             
+ 
+ 
+ 
+   
+            Tick bite torture: Mother lost her job, her partner and has been forced to wear nappies after falling victim to bloodsucking bug condition that 'might not exist' 
+             
+ 
+ 
+ MOST READ IN DETAIL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_bottom.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From the Makers of Candy Crush 
+ Farm Heroes Saga, the #4 Game on iTunes. Play it now! 
+ 
+ 
+ 
+ more 
+ 
+ 
+ 
+ 
+  <img src='http://tag.researchnow.com/t/beacon?pr=41&ca=CAMPAIGNNAME&pl=PLACEMENTNAME&cr=CREATIVENAME&si=SITENAME&adn=3&tt=3' />  
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_left_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_middle.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_bottom.html  
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_right_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_middle.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_bottom.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_left_bottom.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_right_bottom.html  
+ 
+ class fe.views.body_modules.PostPanels 
+ 
+ 
+ 
+ class fe.single_article.gallery_slideshow.GallerySlideshow 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/interstitial.html?id=interstitial-0-ad  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/interstitial.html?id=interstitial-1-ad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.fff.JsFFF 
+ 
+ [if gte IE 8]><! 
+ 
+ <![endif] 
+ class fe.views.adverts.AdvertsInit 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_channel.html  
+ 
+ class fe.views.footer.Footer 
+ 
+ 
+ 
+   
+   
+ Back to top 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ U.K. 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ Sports 
+ 
+ 
+ 
+ 
+ U.S. Showbiz 
+ 
+ 
+ 
+ 
+ Australia 
+ 
+ 
+ 
+ 
+ Femail 
+ 
+ 
+ 
+ 
+ Health 
+ 
+ 
+ 
+ 
+ Science 
+ 
+ 
+ 
+ 
+ Money 
+ 
+ 
+ 
+ 
+ Video 
+ 
+ 
+ 
+ 
+ Travel 
+ 
+ 
+ 
+ 
+ Columnists 
+ 
+ 
+ 
+ 
+ DailyMailTV 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sitemap 
+ Archive 
+ Video Archive 
+ Topics Index 
+ Mobile Apps 
+ Screensaver 
+ RSS 
+ Text-based site 
+ Reader Prints 
+ Our Papers 
+ Top of page 
+ 
+ Daily Mail 
+ Mail on	Sunday 
+ This is Money 
+ 
+ Metro 
+ Jobsite 
+ Mail Travel 
+ Zoopla.co.uk 
+ Prime Location 
+ 
+ 
+ Published by Associated Newspapers Ltd 
+ Part of the Daily Mail, The Mail on Sunday & Metro Media Group 
+ © Associated Newspapers Ltd 
+ Contact us 
+ How to complain 
+ Advertise with us 
+ Contributors 
+ Work with Us 
+ Terms 
+ Privacy policy & cookies 
+ 
+ 
+ class fe.views.adverts.BannerMasthead 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/banner_top.html  
+ 
+ class fe.views.page_modules.DmFnInit 
+ 
+ class fe.views.page_modules.TaboolaBottom 
+ 
+ class fe.views.page_modules.LoginLightBox 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.smart_banner.JsSmartBanner 
+ 
+ class fe.views.tynt_tracer.TyntTracer 
+  BEGIN Tynt Script  
+ 
+  END Tynt Script  
+ class fe.views.lotame.Lotame 
+ 
+ 
