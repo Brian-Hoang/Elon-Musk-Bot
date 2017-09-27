@@ -6,6 +6,37 @@ import re
 import glob
 
 
+def extract_clean():
+    fdist_c = FreqDist()
+    c_text = "" 
+
+    for file in glob.glob('cleanfile*.txt'):
+        with open(file, 'r') as f:
+            text = f.read()
+            text = text.replace("\n", " ")
+            text = text.lower()
+            text = text.translate(str.maketrans('','',string.punctuation))
+            c_text+=text
+            
+
+    tokens = nltk.word_tokenize(text)
+    tokens = [word for word in tokens if word not in stopwords.words('english')]
+    fdist = FreqDist(tokens)
+
+    uniq_dic = {}
+
+    for token, pos in tags:
+        if pos not in pos_dict:
+            uniq_dic[pos] = 1
+        else:
+            uniq_dic[pos] += 1
+
+    new_list = sorted(uniq_dic, key=uniq_dic.get, reverse=True)
+    
+    for pos in new_list[:30]:
+        print(pos, ':', new_list[pos])
+    
+
 # function to clean and tokenize scraped text/sentences
 # note: processedfiles only have tabs and newlines removed
 # note: cleanfiles are the ones that have been manually cleaned afterwards, so do not override those
@@ -100,6 +131,8 @@ def main():
     crawler()
     scraper()
     cleaner()
+    extract_clean()
+    
 
 if __name__ == "__main__":
     main()
