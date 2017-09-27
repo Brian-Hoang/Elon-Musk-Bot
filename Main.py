@@ -133,6 +133,9 @@ def crawler():
 
 
 def main():
+    crawler()
+    scraper()
+    cleaner()
     extract_clean()
     
 
