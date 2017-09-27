@@ -1,40 +1,45 @@
 import nltk
 from bs4 import BeautifulSoup
+from nltk import FreqDist
+from nltk.corpus import stopwords
+import string
 import requests
 import urllib.request
 import re
 import glob
+import sys
 
-
+##Clean up clean files and extract 
 def extract_clean():
     fdist_c = FreqDist()
     c_text = "" 
 
+    #loop over every file, replace new lines, lower case, remove punc, add to cum text 
     for file in glob.glob('cleanfile*.txt'):
-        with open(file, 'r') as f:
+        with open(file, 'r', encoding="utf8") as f:
             text = f.read()
             text = text.replace("\n", " ")
             text = text.lower()
             text = text.translate(str.maketrans('','',string.punctuation))
             c_text+=text
             
-
+    ##grab tokens and remove stop words 
     tokens = nltk.word_tokenize(text)
     tokens = [word for word in tokens if word not in stopwords.words('english')]
     fdist = FreqDist(tokens)
-
+    #tags = nltk.pos_tag(tokens)
     uniq_dic = {}
 
-    for token, pos in tags:
-        if pos not in pos_dict:
-            uniq_dic[pos] = 1
+    #Create dict of unique words where val is frequency 
+    for token in tokens:
+        if token not in uniq_dic:
+            uniq_dic[token] = 1
         else:
-            uniq_dic[pos] += 1
+            uniq_dic[token] += 1
 
-    new_list = sorted(uniq_dic, key=uniq_dic.get, reverse=True)
-    
-    for pos in new_list[:30]:
-        print(pos, ':', new_list[pos])
+    #sort list and print it
+    for pos in sorted(uniq_dic, key=uniq_dic.get, reverse=True)[:30]:
+        print(pos.encode("utf-8"), ':', uniq_dic[pos])
     
 
 # function to clean and tokenize scraped text/sentences
@@ -128,9 +133,6 @@ def crawler():
 
 
 def main():
-    crawler()
-    scraper()
-    cleaner()
     extract_clean()
     
 
