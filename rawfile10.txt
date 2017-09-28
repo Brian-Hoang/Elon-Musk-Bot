@@ -180,8 +180,8 @@
  DJIA 
  ▲ 
  
- 22349.59 
- -0.04% 
+ 22388.63 
+ 0.21% 
  
  
  
@@ -191,8 +191,8 @@
  S&P 500 
  ▲ 
  
- 2502.22 
- 0.06% 
+ 2510.49 
+ 0.14% 
  
  
  
@@ -202,8 +202,8 @@
  Nasdaq 
  ▲ 
  
- 6426.92 
- 0.07% 
+ 6453.54 
+ 0.00% 
  
  
  
@@ -213,8 +213,8 @@
  U.S. 10 Yr 
  ▲ 
  
- 0/32 yield 
- 2.255% 
+ -0/32 yield 
+ 2.313% 
  
  
  
@@ -224,8 +224,8 @@
  Crude Oil 
  ▲ 
  
- 50.66 
- 0.22% 
+ 51.54 
+ -1.15% 
  
  
  
@@ -235,8 +235,8 @@
  Euro 
  ▲ 
  
- 1.1947 
- 0.06% 
+ 1.1787 
+ 0.37% 
  
  
  
@@ -1321,7 +1321,7 @@
  
  
  
- Raw Footage From WSJ Trip to Pyongyang, North Korea 
+ This 16-Lens Camera Is a Threat to DSLRs 
  
  
  
@@ -1331,7 +1331,7 @@
  
  
  
- iOS 11: The Best Hidden Tricks for Your iPhone 
+ Trump's Tax Plan: What You Need to Know 
  
  
  
@@ -1341,7 +1341,7 @@
  
  
  
- North Korea May Test Hydrogen Bomb Over Pacific 
+ Inside Jim Belushi's $38.5 Million Mansion 
  
  
  
@@ -1351,7 +1351,7 @@
  
  
  
- Blood Brothers 
+ Nearly 50,000 Flee Bali Amid Threatening Volcano Eruption 
  
  
  
@@ -1361,7 +1361,7 @@
  
  
  
- Kentucky Colonels Can Be Pretty Much Anyone 
+ Malls Struggle to Compete With Online Shopping 
  
  
  
@@ -1377,7 +1377,7 @@
  
  
  
- U.S. Planes Skirt North Korea Coast in Show of Force 
+ Winners and Losers Under the Trump Tax Plan  
  
  
  
@@ -1386,7 +1386,7 @@
  
  
  
- Brothers in Arms: The Tragedy in Small-Town America 
+ Hugh Hefner, Founder of Playboy Magazine Who Helped Usher In Sexual Revolution, Dies at 91 
  
  
  
@@ -1395,7 +1395,7 @@
  
  
  
- Jerry Seinfeld Breaks Down a Joke 
+ Canada Says It’s No Safe Haven for Immigrants Losing U.S. Protection  
  
  
  
@@ -1404,7 +1404,7 @@
  
  
  
- NFL Protests Spread as Trump’s Feud With Athletes Escalates 
+ Harvard Takes Top Honors in WSJ/THE College Rankings 
  
  
  
@@ -1413,7 +1413,7 @@
  
  
  
- Trump Rescinds White House Invite to NBA Star, Criticizes NFL Protests 
+ GOP Tax Overhaul Aims for Corporate Cuts, Simpler Code 
  
  
  
@@ -1453,7 +1453,7 @@
  
  
  
- Raw Footage From WSJ Trip to Pyongyang, North Korea 
+ This 16-Lens Camera Is a Threat to DSLRs 
  
  
  
@@ -1463,7 +1463,7 @@
  
  
  
- iOS 11: The Best Hidden Tricks for Your iPhone 
+ Trump's Tax Plan: What You Need to Know 
  
  
  
@@ -1473,7 +1473,7 @@
  
  
  
- North Korea May Test Hydrogen Bomb Over Pacific 
+ Inside Jim Belushi's $38.5 Million Mansion 
  
  
  
@@ -1483,7 +1483,7 @@
  
  
  
- Blood Brothers 
+ Nearly 50,000 Flee Bali Amid Threatening Volcano Eruption 
  
  
  
@@ -1493,7 +1493,7 @@
  
  
  
- Kentucky Colonels Can Be Pretty Much Anyone 
+ Malls Struggle to Compete With Online Shopping 
  
  
  
@@ -1509,7 +1509,7 @@
  
  
  
- U.S. Planes Skirt North Korea Coast in Show of Force 
+ Winners and Losers Under the Trump Tax Plan  
  
  
  
@@ -1518,7 +1518,7 @@
  
  
  
- Brothers in Arms: The Tragedy in Small-Town America 
+ Hugh Hefner, Founder of Playboy Magazine Who Helped Usher In Sexual Revolution, Dies at 91 
  
  
  
@@ -1527,7 +1527,7 @@
  
  
  
- Jerry Seinfeld Breaks Down a Joke 
+ Canada Says It’s No Safe Haven for Immigrants Losing U.S. Protection  
  
  
  
@@ -1536,7 +1536,7 @@
  
  
  
- NFL Protests Spread as Trump’s Feud With Athletes Escalates 
+ Harvard Takes Top Honors in WSJ/THE College Rankings 
  
  
  
@@ -1545,7 +1545,7 @@
  
  
  
- Trump Rescinds White House Invite to NBA Star, Criticizes NFL Protests 
+ GOP Tax Overhaul Aims for Corporate Cuts, Simpler Code 
  
  
  

@@ -474,6 +474,44 @@ aeon.co
  
  
  
+Essay / Computing & Artificial Intelligence 
+ 
+Art by algorithm
+ 
+ 
+From book critiques to music choices, computation is changing aesthetics. Does increasingly average perfection lie ahead?
+ 
+ 
+ Ed Finn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -485,44 +523,6 @@ One man’s quixotic quest to bring American bison to his Scottish homeland
  
  
 16 minutes
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Essay / Data & Information 
- 
-The bit bomb
- 
- 
-It took a polymath to pin down the true nature of ‘information’. His answer was both a revelation and a return
- 
- 
- Rob Goodman & Jimmy Soni 
  
  
  
@@ -648,15 +648,15 @@ How to build a no-frills protected bed in the wild, from top to bottom
  
  
  
-Essay / Technology & the Self 
+Essay / Data & Information 
  
-Natural, shmatural
- 
- 
-Mother Nature might be lovely, but moral she is not. She doesn’t love us or want what’s best for us
+The bit bomb
  
  
- Molly Hodgdon 
+It took a polymath to pin down the true nature of ‘information’. His answer was both a revelation and a return
+ 
+ 
+ Rob Goodman & Jimmy Soni 
  
  
  

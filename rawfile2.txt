@@ -18,20 +18,20 @@
  
  
  
- [if lt IE 9]>
-
-	<script src="https://csq.com/wp-content/themes/bootstrap/js/html5.js"></script>
-
+ [if lt IE 9]>
+
+	<script src="https://csq.com/wp-content/themes/bootstrap/js/html5.js"></script>
+
 	<![endif] 
   Bootstrap core CSS  
  
   HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries  
- [if lt IE 9]>
-
-		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
+ [if lt IE 9]>
+
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
 	<![endif] 
   System Files  
  
@@ -200,7 +200,7 @@
  Exhibits and Performances 
  Fine Dining 
  Happy Hour 
- Proprietor’s Profile 
+ Proprietorâ€™s Profile 
  Required Reading 
  
  
@@ -232,8 +232,8 @@
  
  Advisor Tools 
  
- C-Suite Advisory – Application 
- C-Suite Advisory – Advisor Login 
+ C-Suite Advisory â€“ Application 
+ C-Suite Advisory â€“ Advisor Login 
  
  
  Legal 
@@ -248,7 +248,7 @@
  Sidebar navigation ends  
  
  
-   
+ Â  
  
  
  
@@ -338,8 +338,8 @@
   AddThis Button BEGIN  
  
  
- As CEO and Chief Designer of Space Exploration Technologies (SpaceX), Elon Musk has ignited the private sector’s space race, finishing first with flying colors. With his company’s space shuttles routinely carrying cargo to the International Space Station, Musk has come a long way since migrating from South Africa at age 17. Studying at University of Pennsylvania, Musk followed his passions in multiple fields. Musk holds a Bachelors of Arts in Physics and a Bachelors of Science in Business––an unorthodox combination in academics––but true to his education, Musk has turned physics into an art and business into a science. 
- After devising and implementing PayPal, the largest global Internet payment system, Musk turned to Tesla Motors, where he revolutionized the design of their trademark all-electric models while serving as CEO and Product Architect. But this scientific artist was driven to breach a new frontier in the world of transportation design. With the cosmos as his corporate canvas, Musk founded SpaceX. Since its inception, SpaceX has racked up numerous commercial firsts thought to be achievable only by governments. As it turns out, NASA is one of SpaceX’s largest clients, requesting their space shuttle Dragon to venture on regular cargo missions. Though he lives and works in Los Angeles, Musk has said that his ultimate goal with SpaceX is to successfully colonize Mars and eventually, other planets. Musk stretches his ambition and potential so much that though his thoughts may ascend above the clouds, his feet are planted firmly on the ground. 
+ As CEO and Chief Designer of Space Exploration Technologies (SpaceX), Elon Musk has ignited the private sectorâ€™s space race, finishing first with flying colors. With his companyâ€™s space shuttles routinely carrying cargo to the International Space Station, Musk has come a long way since migrating from South Africa at age 17. Studying at University of Pennsylvania, Musk followed his passions in multiple fields. Musk holds a Bachelors of Arts in Physics and a Bachelors of Science in Businessâ€“â€“an unorthodox combination in academicsâ€“â€“but true to his education, Musk has turned physics into an art and business into a science. 
+ After devising and implementing PayPal, the largest global Internet payment system, Musk turned to Tesla Motors, where he revolutionized the design of their trademark all-electric models while serving as CEO and Product Architect. But this scientific artist was driven to breach a new frontier in the world of transportation design. With the cosmos as his corporate canvas, Musk founded SpaceX. Since its inception, SpaceX has racked up numerous commercial firsts thought to be achievable only by governments. As it turns out, NASA is one of SpaceXâ€™s largest clients, requesting their space shuttle Dragon to venture on regular cargo missions. Though he lives and works in Los Angeles, Musk has said that his ultimate goal with SpaceX is to successfully colonize Mars and eventually, other planets. Musk stretches his ambition and potential so much that though his thoughts may ascend above the clouds, his feet are planted firmly on the ground. 
  
  
  
@@ -390,6 +390,21 @@
  
   Array
 (
+    [0] => https://csq.com/wp-content/uploads/2014/12/marks-cover-275x175.jpg
+    [1] => 275
+    [2] => 175
+    [3] => 1
+)
+   
+ 
+ Innovation 
+ 
+ 
+											The Virtual Reality of Los Angeles										 
+ 
+ 
+  Array
+(
     [0] => https://csq.com/wp-content/uploads/2015/01/Adam-Miller-Opening-275x175.jpg
     [1] => 275
     [2] => 175
@@ -399,13 +414,13 @@
  
  Technology 
  
- 
+ 
 											Adam Miller: High Visibility in the Cloud										 
  
  
   Array
 (
-    [0] => https://csq.com/wp-content/uploads/2013/12/sidebar-cover-275x175.jpg
+    [0] => https://csq.com/wp-content/uploads/2015/12/Chuck-Davis_Opening-275x175.jpg
     [1] => 275
     [2] => 175
     [3] => 1
@@ -414,44 +429,14 @@
  
  Innovation 
  
- 
-											Regional Companies at the Cutting Edge										 
  
- 
-  Array
-(
-    [0] => https://csq.com/wp-content/uploads/2014/06/maier-cover-275x175.jpg
-    [1] => 275
-    [2] => 175
-    [3] => 1
-)
-   
- 
- Entertainment 
- 
- 
-											John Maier: Monster Sounds										 
+											Chuck Davis: Serial Success Story										 
  
  
  
   Array
 (
-    [0] => https://csq.com/wp-content/uploads/2014/01/Michelson-Opening-275x175.jpg
-    [1] => 275
-    [2] => 175
-    [3] => 1
-)
-   
- 
- Technology 
- 
- 
-											Gary Michelson: A Beautiful Mind										 
- 
- 
-  Array
-(
-    [0] => https://csq.com/wp-content/uploads/2015/01/1-tastemade-cover-275x175.jpg
+    [0] => https://csq.com/wp-content/uploads/2017/02/Eva-Ho_Opening-275x175.jpg
     [1] => 275
     [2] => 175
     [3] => 1
@@ -460,13 +445,13 @@
  
  Innovation 
  
- 
-											The 2014 Disruptors: The End of “Business as Usual”										 
+ 
+											Eva Ho: Optimizing Tech Junctures										 
  
  
   Array
 (
-    [0] => https://csq.com/wp-content/uploads/2015/12/Jason-Nazar-275x175.jpg
+    [0] => https://csq.com/wp-content/uploads/2016/10/PSSFeatureImage-275x175.jpg
     [1] => 275
     [2] => 175
     [3] => 1
@@ -475,8 +460,23 @@
  
  Innovation 
  
- 
-											Jason Nazar: Taking Stock in New Ventures										 
+ 
+											Patrick Soon-Shiong: Moonshot Man on a Mission										 
+ 
+ 
+  Array
+(
+    [0] => https://csq.com/wp-content/uploads/2015/01/Ray-Kurzweil-Opening-275x175.jpg
+    [1] => 275
+    [2] => 175
+    [3] => 1
+)
+   
+ 
+ Innovation 
+ 
+ 
+											Ray Kurzweil: The Futurist, Now										 
  
  
  
@@ -486,7 +486,7 @@
  
  #BEGIN-BOTTOM 
  
-  
+  
 	    array(18) {
   ["post"]=>
   string(4) "post"
@@ -525,21 +525,21 @@
   ["csuite"]=>
   string(6) "csuite"
 }
-	
+	
 	 
  
  
  
- 
-						Company Info
+ 
+						Company Info
 					 
  
  About CSQ 
  Advertise 
  Contact Us 
  
- 
-						Legal
+ 
+						Legal
 					 
  
  Privacy Policy 
@@ -559,8 +559,8 @@
  
  
  
- 
-						Advisory
+ 
+						Advisory
 					 
  Become An Advisor 
  
@@ -572,8 +572,8 @@
  
  
  
- 
-							Newsletter Sign-up
+ 
+							Newsletter Sign-up
 						 
  
  Email Address  
@@ -600,7 +600,7 @@
  
  
  
- Copyright © 2017, C-Suite Media. All Rights Reserved. 
+ Copyright Â© 2017, C-Suite Media. All Rights Reserved. 
  
  
  Site by  Echo-Factory . 

@@ -1,0 +1,5909 @@
+
+ class fe.views.head_modules.MetaGoogleAds 
+  google_ad_section_start(name=s1)   google_ad_section_end(name=s1)  
+ class fe.views.head_modules.MetaAddOns 
+ class fe.views.meta_properties.MetaProperties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.meta_links.MetaLinks 
+ 
+ 
+ class fe.views.head_modules.CssDesktop 
+ [if IE]>
+  <link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/all-ie8-9--.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/all1-ie8-9--.css" />
+<![endif] 
+ [if !IE]><! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <![endif] 
+ 
+ [if IE]>
+  <link rel="stylesheet" type="text/css" media="screen" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/registration--.css" />
+<![endif] 
+ [if !IE]><! 
+ 
+ <![endif] 
+ 
+ class fe.views.head_modules.CssReaderComments 
+ [if IE]>
+  <script>
+    DM.loadCSS("http://scripts.dailymail.co.uk/static/gunther/1.17.0/rc-main--.css");
+  </script>
+  <noscript><link rel="stylesheet" type="text/css" media="all" href="http://scripts.dailymail.co.uk/static/gunther/1.17.0/rc-main--.css" /></noscript>
+<![endif] 
+ [if !IE]><! 
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.CssLazyLoad 
+ 
+ class fe.views.fff.CssFFF 
+ [if gte IE 8]><! 
+ 
+ <![endif] 
+ class fe.views.page_modules.Abe 
+ 
+ class fe.views.head_modules.JsPageCriteria 
+ 
+ 
+ class fe.views.head_modules.JsInitVars 
+ 
+ class fe.views.head_modules.JsTwitterVia 
+ 
+ 
+ class fe.views.head_modules.JsDart 
+ 
+ class fe.tracking.rta.JsRTA2 
+ 
+ class fe.views.head_modules.JsFeSync 
+ [if IE 8]>
+  <script src="/ie8.js"></script>
+<![endif] 
+ [if IE 9]>
+  <script src="/ie9.js"></script>
+<![endif] 
+ [if IE]>
+  <script src="http://scripts.dailymail.co.uk/static/gunther/1.17.0/sync_bundle--.js"></script>
+<![endif] 
+ [if !IE]>  
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.JsAdverts 
+  ad-config: http://mads.dailymail.co.uk/v2/us/news/none/article/other/false/config.html  
+ 
+ class fe.views.head_modules.JsFeAsync 
+ [if IE]>
+  <script>
+  (function (src, d, tag){
+    var s = d.createElement(tag), prev = d.getElementsByTagName(tag)[0];
+    s.src = src;
+    prev.parentNode.insertBefore(s, prev);
+    }("http://scripts.dailymail.co.uk/static/gunther/1.17.0/async_bundle--.js", document, "script"));
+  </script>
+<![endif] 
+ [if !IE]>  
+ 
+ 
+ <![endif] 
+ class fe.views.head_modules.JsVideo 
+ 
+ [if IE]>
+    <script>
+      DM.loadCSS("http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.css");
+    </script>
+    <noscript><link rel="stylesheet" href="http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.css"></noscript>
+    <script defer src="http://scripts.dailymail.co.uk/static/gunther/gunther-2159/video_bundle--.js"></script>
+  <![endif] 
+ [if !IE]>  
+ 
+ 
+ 
+  <![endif] 
+ class fe.views.head_modules.JsMolFeConfig 
+ class fe.views.head_modules.JsPlatformConfig 
+ 
+ class fe.views.head_modules.JsCookie 
+ 
+ 
+ class fe.views.dynamic_ad_control.InitAds 
+ 
+ 
+ class fe.views.head_modules.JsNavigation 
+ 
+ class fe.views.head_modules.JsTaboola 
+ 
+ class fe.views.head_modules.JsInlineModules 
+ 
+ class fe.views.page_modules.Abe 
+ 
+ class fe.views.body_modules.SetupMobileClass 
+ 
+ class fe.views.masthead_map.MastheadMap 
+ class fe.tracking.rta.JsRTA 
+ 
+ class fe.channel.omniture.Omniture 
+  SiteCatalyst code version: H.20.3.
+    Copyright 1997-2009 Omniture, Inc. More info available at
+    http://www.omniture.com  
+ 
+ 
+ 
+ /DO NOT REMOVE/ 
+  End SiteCatalyst code version: H.20.3.  
+ class fe.views.body_modules.GoogleAnalyticsPageView 
+ 
+ class fe.views.body_modules.TedPageView 
+ 
+ class fe.channel.effective_measure.EffectiveMeasure 
+ class fe.views.mpu_modules.MpuModules 
+ 
+ class fe.views.body_modules.FbRemarketingPixel 
+ 
+ 
+ class fe.views.body_modules.LightboxTarget 
+ 
+ class fe.views.body_modules.TopDivRenderer 
+ class fe.views.body_modules.BannerTop 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sticky_banner.html   ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/ldr_top.html  
+ 
+ class fe.views.masthead.Masthead 
+   
+ 
+ 
+ 
+  Home 
+ 
+ 
+ 
+  U.K. 
+ 
+ 
+   
+   
+ 
+ News 
+ 
+ 
+ 
+  Sports 
+ 
+ 
+ 
+  U.S. Showbiz 
+ 
+ 
+ 
+  Australia 
+ 
+ 
+ 
+  Femail 
+ 
+ 
+ 
+  Health 
+ 
+ 
+ 
+  Science 
+ 
+ 
+ 
+  Money 
+ 
+ 
+ 
+  Video 
+ 
+ 
+ 
+  Travel 
+ 
+ 
+ 
+  Columnists 
+ 
+ 
+ 
+  DailyMailTV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest Headlines 
+ 
+ 
+ News 
+ 
+ 
+ World News 
+ 
+ 
+ Arts 
+ 
+ 
+ Headlines 
+ 
+ 
+ Pictures 
+ 
+ 
+ Most read 
+ 
+ 
+ Wires 
+ 
+ 
+ 
+ My Profile 
+ Logout 
+ 
+ 
+ 
+ 
+ 
+              Login
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    from masthead  
+ class fe.views.nav.Nav 
+ class fe.views.body_modules.ContentDivRenderer 
+ class fe.channel.floating_buttons.FloatingButtons 
+ NEW ARTICLES Home Top Share 
+ class fe.channel.billboard.Billboard 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/billboard.html  
+  show ad 
+ class fe.views.openschema.OpenSchemaContentWrapper 
+ class fe.views.body_modules.ContentRenderer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Still slaves in all but name: Haunting pictures show how little life changed for many freed slaves in the South after the Civil War   
+ 
+ 
+ 
+ 
+ 
+ BREAKING NEWS: Actress Julia Louis-Dreyfus‏ announces she is battling breast cancer 
+ 
+ 
+ 
+ 
+ 
+ Heard but NOT seen: Why are NFL fans not being seen on TV booing players' national anthem protests? 
+ 
+ 
+ 
+ 
+ 
+ Puerto Rico's 'aid mountain' backlog: Desperately needed supplies are NOT being delivered because there are no truck drivers available as Trump waives archaic shipping law to let MORE vital rations in 
+ 
+ 
+ 
+ 
+ 
+ Off-duty LAPD officer 'who killed family of three in a fiery DUI crash posted animated video to Instagram with a 'don't drink and drive' hashtag three hours before accident 
+ 
+ 
+ 
+ 
+ 
+ Mars missions should be all-female to avoid astronauts having SEX during 1.5-year journey, according to secret Nasa report on 'impure thoughts in space' 
+ 
+ 
+ 
+ 
+ 
+ Donald Trump joked he would make Princess Diana take an HIV test before he he had sex with her in rediscovered Howard Stern interview from just months after her death 
+ 
+ 
+ 
+ 
+ 
+ Hugh Hefner's wife Crystal Harris, 31, 'will inherit nothing after signing an ironclad prenup before their wedding and was never added to his will' 
+ 
+ 
+ 
+ 
+ 
+ Playboy founder Hugh Hefner dies of natural causes aged 91 surrounded by loved ones at his infamous $100million Beverly Hills mansion 
+ 
+ 
+ 
+ 
+ 
+ 'You were a gentleman': Pamela Anderson weeps in emotional video tribute to Hugh Hefner as she joins Kim Kardashian and Paris Hilton in remembering Playboy founder after his death aged 91 
+ 
+ 
+ 
+ 
+ 
+ Hugh Hefner's body is driven away from his $100 million Playboy mansion and transported to its final resting place next to Marilyn Monroe 
+ 
+ 
+ 
+ 
+ 
+ Playboy to the end! How Hugh Hefner will be buried in LA cemetery plot next to his first magazine cover girl Marilyn Monroe after paying $75,000 for it in 1992  
+ 
+ 
+ 
+ 
+ 
+ 'You made me who I am': Kendra Wilkinson breaks her silence on Hugh Hefner's death - joining a host of celebrities and former models to pay tribute to the media legend 
+ 
+ 
+ 
+ 
+ 
+ PIERS MORGAN: Farewell to the Hef, the King of Sex and an unlikely champion of freedom, equality and everybody's right to some fun  
+ 
+ 
+ 
+ 
+ 
+ 'Hefner did not lead the sexual revolution - he was a pornographer who locked women up': Feminists lead backlash against Playboy mogul claiming that he treated women like 'consumables' 
+ 
+ 
+ 
+ 
+ 
+ 'I spent so much of my life looking for love in all the wrong places': How Hefner boasted of bedding more than a thousand women and married three times but at 85 said he'd never found his soulmate  
+ 
+ 
+ 
+ 
+ 
+ Into the rabbit hole! How Hugh Hefner's $100million Playboy Mansion loved by Trump was at center of Bill Cosby's rape scandal, had hot tub disease outbreak and fell into disrepair - but Hef refused to leave 
+ 
+ 
+ 
+ 
+ 
+ Hugh Hefner's 31-year-old widow claims sex drug Viagra made Playboy magnate 'lose his hearing' 
+ 
+ 
+ 
+ 
+ 
+ How Playboy magazine which saw Marilyn Monroe, Marge Simpson and even Donald Trump grace the cover brought nudity out from under the counter in America 
+ 
+ 
+ 
+ 
+ 
+ Inside the sex scandal that brought down a multi-million dollar televangelist empire when a pastor 'raped' his church secretary and defrauded his flock out of $158 million 
+ 
+ 
+ 
+ 
+ 
+ NSA leaker Reality Winner tells the FBI she smuggled classified documents out of the office by stuffing them in her pantyhose 
+ 
+ 
+ 
+ 
+ 
+ South African man is jailed for having sex with a DONKEY after witch doctor told him it would make him a stronger man  
+ 
+ 
+ 
+ 
+ 
+ Horrifying portraits of American soldiers torturing women with pliers and murdering babies are used for propaganda by North Korea as posters created by Kim Jong-il's regime are displayed in public 
+ 
+ 
+ 
+ 
+ 
+ Beijing orders North Korean businesses in China to shut down by January as part of the latest UN sanctions against Kim Jong-un 
+ 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Elon Musk 'withdraws divorce papers against wife Talulah Riley' less than one month after pair were spotted holding hands at Allen & Company conference 
+ Elon Musk has reportedly withdrawn divorce papers against his wife Talulah Riley  The  tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are now back together They were seen in July holding hands at the Allen & Company conference in Sun Valley,  Idaho News of their latest reconciliation was first reported by The Mail on Sunday in May  By
+
+ Chris Spargo For Dailymail.com 
+ 
+ 
+ 
+ Published: 
+  22:05 EDT, 4 August 2015
+ 
+ |  
+ Updated: 
+  22:21 EDT, 4 August 2015
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e-mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ shares 
+ 
+   
+           94 
+ View   comments 
+ 
+ 
+ 
+ Elon Musk and wife Talulah Riley are giving the marriage a second shot - for the second time. The South African-born tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are back together after Musk reportedly withdrew divorce papers he filed in January. News of their reconciliation was first reported in May by  The Mail on Sunday . Scroll own for video      
+ 
+ 
+ 
+ 
+ 
+   Back on: Elon Musk has reportedly withdrawn divorce papers against his wife Talulah Riley (pair above in July)     
+ 
+ 
+ 
+ 
+ 
+   Happy day: The tech billionaire and the English actress - who were married in 2010, divorced in 2012 and then remarried in 2013 - are now back together (above in 2009) TMZ  reports that Musk has filed a request to dismiss the divorce, and that Riley is on board with the decision. This comes less than a month after the two were spotted holding hands at the annual Allen & Company conference in Sun Valley, Idaho.  The couple also seemed close this past May while in Cannes.  
+ 
+ 
+ RELATED ARTICLES 
+ 
+ Previous 
+ 1 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Then who is going to clean your toilets?' Kelly Osbourne... 
+ 
+ 
+ 
+ Inside the lavish five-day safari wedding of 46-year-old... 
+ 
+ 
+ 
+ EXCLUSIVE: Inside Jill Duggar's life as a missionary in EL... 
+ 
+ 
+ 
+ EXCLUSIVE: Yours for only $60 million ¿ pictures of  the... 
+ 
+ 
+ 
+ 
+ 
+ Share this article 
+ Share 
+ 33  shares 
+ 
+ 
+ 
+ It was there that a source told Mail on Sunday; ‘Her friends think they will now have some kind of commitment ceremony. It’s funny – every time they get back together the celebrations become smaller. ‘I suppose it’s sort of embarrassing in a way, but at the same time really lovely that they just can’t keep away from each other.’ Musk, 44, and Riley, 29, first wed in 2010, at a ceremony held in Scotland, but divorced shortly after in 2012. He announced on Twitter that it had been an ‘amazing’ few years and that he would always love her, paying out $4.2million in a settlement. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ On and off: The pair have been divorced once, and remarried soon after (left in 2013, right in May) Months after the first divorce, they were back together – and remarried in July 2013. But the couple lived apart for much of last year while Talulah wrote and directed her first feature film, Scottish Mussel. Divorce papers were again filed on new Year's Day with the couple insisting that the split was amicable and Musk agreeing to pay $16million in a settlment. It is uncertain if Riley will still see that money, though with an estimated worth of $14billion Musk likely would not miss the money that much.   Prior to his relationship with Riley, Musk was married to Canadian author Justine Wilson. The pair  wed in 2000 and then divorced in 2008. They had five children together - twins Griffin and Xavier, and triplets Damian, Saxon, and Kai. 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/inread_player.html  
+ 
+ Read more: 
+ 
+ PayPal's Elon Musk falls for wife Talulah Riley a THIRD time | Daily Mail Online 
+ Elon Musk -- Third Time's a Charm ... Pulls Plug on Divorce Again! | TMZ.com 
+ 
+ 
+ 
+ 
+ 
+ Share or comment on this article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ e-mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             Most watched   News videos                     Jane Fonda snaps at Megyn Kelly over plastic surgery question                   Diver bitten by shark has it cut away from his stomach                   England cricketer Ben Stokes seen brawling in street outside club                   Moment of deadly rock slide on Yosemite's El Capitan                   View from El Capitan after deadly Yosemite rockslide                   Eyewitness describes shooting of man on M5 motorway as 'shocking'                   Terrifying moment police kill murder suspect on busy Interstate                   Singer and host ex-boyfriend get into rough fight at music event                   How Jessica Hahn brought down a televangelist empire                   2010: Rogue Locksmith Mark Makowski confronted on Watchdog                   Snake expert films himself dying after letting black mamba bite him                   England star Ben Stokes in shocking c-word Snapchat video                   
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/under-article-wide.html  
+ 
+ 
+               Playboy founder Hugh Hefner dies of natural causes aged...             Hugh Hefner's wife Crystal Harris, 31, 'will inherit...             Fury as Trump mocks cancer-stricken John McCain's...             BREAKING NEWS: England cricketer Ben Stokes and teammate...             Worldwide airport chaos caused by a SINGLE SWITCH plunges...             Canadian model, 24, loses sight in one eye after tattoo...             Lady Lucan, prisoner of a macabre past she refused to...             'I spent so much of my life looking for love in all the...             'I miss him every day': Lyle Menendez reveals he has not...             Beijing orders North Korean businesses in China to shut...             The terrifying moment of tragedy in Yosemite: What one...             EXCLUSIVE: 'I wasn't sacked... I quit!': 'Axed' British...             Ferrari-driving rogue locksmith whose rip-offs were...             Italian fitness instructor, 40, fed up of waiting for Mr...             Still slaves in all but name: Haunting pictures show how...             Trump warns NFL owners that 'their business is going to...             More than 120,000 people flee smoking volcano in Bali as...             Inside the sex scandal that brought down a multi-million...           MOST READ NEWS     Previous   Next     ●   ●   ●   ●               
+ 
+ 
+ 
+ 
+ More top stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bing 
+ 
+ 
+ Site 
+ Web 
+ 
+ 
+ Enter search term: 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_top.html  
+ 
+ 
+ 
+ 
+ Like 
+ DailyMail 
+ 
+ 
+ 
+ 
+ Follow 
+ MailOnline 
+ 
+ 
+ 
+ 
+ Follow 
+ DailyMail 
+ 
+ 
+ 
+ 
+ +1 
+ DailyMail 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/half_mpu_top.html  
+ 
+ 
+   
+   
+ Femail Today 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hugh Hefner's body is driven away from his $100 million Playboy mansion and transported to its final resting place next to Marilyn Monroe
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Pregnant' Khloe Kardashian, 33, STOPPED using birth control six months after meeting Tristan... after saying she was 'scared' about taking next step
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Woman in black! Ivanka Trump heads to work in a low-cut, figure-hugging shirt - while an assistant follows with first daughter's second purse and a coffee
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Oops! Farrah Abraham suffers a wardrobe malfunction as she exposes her bare chest in a TINY untied bikini top while sunbathing in Greece 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I look like such a baby!': Kim Kardashian, 36, shows off her pert backside in sexy throwback shoot for Harper's Bazaar Arabia six years ago
+           
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/native_puff.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hugh Hefner's wife Crystal Harris, 31, 'will inherit nothing after signing an ironclad prenup before their wedding and was never added to his will'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What happens when fiction becomes all too real? Ten reasons why Ten Days in the Valley will have us on the edge of our seats
+           
+ SPONSORED 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'It's a weird thing to bring up': Jane Fonda calls out Megyn Kelly for plastic surgery question telling Matt Lauer it was 'the wrong place and wrong time' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Megyn Kelly bails on Edie Falco interview at last second as NO celeb guests appear on her latest NBC show in wake of Jane Fonda and Debra Messing drama
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Is this porn?' Courtney Stodden shocks viewers of TV dating show when she is filmed having sun cream rubbed into her assets by a hunky suitor in VERY raunchy scenes
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Joan Crawford soaked eyes with acid, Marilyn sewed marbles into bra and Dietrich combed her wigs with gold dust: The bizarre beauty tricks of Hollywood goddesses
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_10.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Model hailed as the 'most beautiful girl in the world' at SIX captures her first Fashion Month in a string of stunning selfies (and poses with her new celeb pals)
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Pregnant' Khloe Kardashian, 33, 'shed tears of joy' after learning she is 'expecting first child with boyfriend Tristan Thompson'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I have a new goal': Ellen DeGeneres tries to become first person Beyonce follows on Instagram by getting audience to dance to Single Ladies
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Andy Samberg causes chaos as he 'debuts baby daughter with Joanna Newsome on Conan'... before performing 'the worm' with her
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          How Hefner's Playboy Mansion loved by Trump was at center of Cosby's rape scandal, had hot tub disease outbreak and fell into disrepair
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          New TV show reveals how Jessica Hahn sex scandal brought down Jim and Tammy Faye Bakker's multi-million dollar televangelist empire 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Her mentor: Kylie Jenner 'leaned on Kim Kardashian' and NOT Khloe, Kourtney or Kendall when she found out she was 'pregnant' with Travis Scott's baby
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Ex-SNL star Darrell Hammond says losing Trump impersonation to Baldwin devastated him as Alec says 'he can have part back anytime he wants' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Royal birthday girls! Queen Rania of Jordan celebrates as her burgeoning fashion icon daughter Iman turns 21 - the day after her sister Salma's 17th
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hugh Hefner's 31-year-old widow Crystal Harris claims sex drug Viagra made Playboy magnate 'lose his hearing'
+           
+          Mogul died at age 91
+         
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_20.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Battle of the network stars: NBC brass tell Debra Messing to 'stop attacking' Megyn Kelly after 'Will & Grace' star's very public lashing of 'Today' host
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Beauty truly is for women of all ages': Billionaire Tesla CEO Elon Musk's mother Maye becomes the oldest ever CoverGirl at age 69
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hot mama! Serena Williams flaunts her incredible post baby body...just one month after welcoming daughter Alexis
+           
+          She looked great
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I would never change anything': Reese Witherspoon reflects on marrying Ryan Phillippe at 23 and the advice she's given her teenage daughter
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'There's something dark within me I can't seem to shake': Cara Delevingne is candid about her mental health struggles and talks about hellish teen years
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bette Midler and Sarah Jessica Parker flick Hocus Pocus set for TV movie reboot by Disney Channel with a completely new cast
+           
+          Came out in 1993
+         
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/bvp_puff_26.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Braless Emily Ratajkowski oozes sex appeal in chic backless co-ords as she storms Paco Rabanne SS18 show during Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Steven Tyler, 69, 'suffered a seizure in Sao Paulo' before unexpectedly canceling Aerosmith tour dates
+           
+          Health crisis for beloved rocker  
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sofia Vergara flaunts her enviably long legs and taut stomach as she strips down for new lingerie campaign
+           
+          Modern Family star, 45, looked amazing
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Not ready to kiss and make up! Rihanna blasts rival beauty brand as 'ashy' for post that many believed took a swipe at her Fenty Beauty line
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_30.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Playboy founder Hugh Hefner dies of natural causes at age 91 surrounded by loved ones at his legendary Beverly Hills mansion
+           
+          An American icon
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I spent so much of my life looking for love in all the wrong places': Hef boasted of bedding 1,000 women and had three wives... but never found his soulmate 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Grieving Pamela Anderson conceals her eyes as she attends Balmain's PFW show after paying emotional tribute to Playboy founder Hugh Hefner
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sara Sampaio displays major sideboob in a daring cut-out sweater as she and Jourdan Dunn lead a host of models at Balmain's Paris show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Jourdan Dunn showcases her legs in studded mesh design as she hits the catwalk alongside Alessandra Ambrosio and Elsa Hosk at Balmain's Paris show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cindy Crawford, 51, narrowly avoids a nip slip in a plunging gold top as she steps out in Paris with her son Presley and his girlfriend Cayley King
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kaia Gerber, 16, commands attention in a sequined mini dress as she dazzles again at Paris Fashion Week on the Chloe SS18 catwalk
+           
+          Cindy Crawford's girl
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm moved by your tears': Criminal mastermind in Kim Kardashian's Paris robbery sends apology before anniversary of $10m heist
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Hefner did not lead the sexual revolution - he was a pornographer who locked women up': Feminists slam  'sleazeball' Playboy boss 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Demi Rose shows off her famously curvaceous figure and TINY waist in a plunging blue bikini as she embarks on sizzling swimwear shoot in Ibiza
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          House Of Cards star Robin Wright, 51, chats away with hunk as she and her son Hopper Penn join a host of celebrities at soccer game in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'You made me who I am': Kendra Wilkinson breaks silence on Hugh Hefner's death - joining a host of celebrities and former models to pay tribute to the legend
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Proud mom Natalie Portman carries a bag personalized with six-month-old daughter Amalia's name as she goes casual for a stroll in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Where's the Sk8ter girl gone? Avril Lavigne displays her underwear in a VERY racy negligee-inspired dress as she celebrates her 33rd birthday in LA with pals
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Prince Edward's wife Sophie Wessex, 52, shows off her creative side as she tries her hand at gold leafing during tour of a college in Glasgow, Scotland
+           
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_puff_45.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          That's the way the Cookie crumbles! Demi Moore, 54, transforms from 'creepy nurse' to a sex-kitten as she locks lips with Terrence Howard in Empire
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sum 41 frontman Deryck Whibley cuts a healthy and happy looking figure at lunch in LA... three years after nearly dying because of alcohol abuse
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sailor Brinkley Cook celebrates her Sports Illustrated Swimsuit shoot, as she admits she spent most of her life 'fighting against' her body
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Playboy to the end! Hugh Hefner will be buried in LA cemetery plot next to his first cover girl Marilyn Monroe after paying $75,000 for it in 1992 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Radiant Claudia Schiffer channels the Sixties in a flirty pink minidress and voluminous hair as she attends her book signing in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Audrina Patridge co-operates with estranged husband Corey Bohan as they hand over Kirra amid ongoing domestic violence case
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I SO feel like Ariana Grande right now!' Kim Kardashian channels the popstar with bleached blonde ponytail as she flashes cleavage in new video
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Blonde bombshell Hailey Baldwin, 20, shows off her taut abs and endless legs in a clingy double split gown as she enjoys night out in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Rosie Huntington-Whiteley displays post-baby body in leather pants at store opening in LA... after sparking rumors she has wed Jason Statham
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She crossed the line': Kim Zolciak says Kenya Moore shouldn't mess with 'my man, my money or my kids' as she makes dramatic return to RHOA
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Audrey Hepburn's personal copy of the Breakfast at Tiffany's script sells for $850,000 as the icon's most treasured possessions go under the hammer
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pascal's back: Kim Kardashian's fired bodyguard Duvier returns to Paris after gunpoint robbery to step out with single-again singer Fergie, 42
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Life is too short to be living someone else's dream': Hugh Hefner was the original Playboy who turned a love of movies, sex and women into a global empire
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Elle Macpherson, 53, is sensational in a chic white gown... as she flaunts her youthful looks and supermodel frame at 2017 NYC DreamBall 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          A firm confirmation! Tom Cruise's Mummy co-star Annabelle Wallis insists heartthrob's rump is REAL
+           
+          It is the butt on everybody's lips
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Right back at you!' Victoria Beckham reclaims signature leg pose in Posh Spice style with sassy response to Kourtney Kardashian's mimicking photo
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          From Bond girl to Bean's girl! Olga Kurylenko sizzles in a plunging yellow swimsuit as she films Johnny English III with Rowan Atkinson
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Her McConaughBAE! Camila Alves packs on the PDA with husband Matthew as she dazzles in a flowing white dress for date night in New York
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Emotional Jennifer Lopez shares relief as she makes contact with her final two relatives in Puerto Rico who were missing after devastating hurricanes
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Coming up roses! Ariel Winter shows off midriff in a crop top and Daisy Dukes for grocery run with Levi Meaden... as mom accuses her of causing feud
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Red hot! Selena Gomez takes in a Broadway show in a revealing wrap dress with a low-cut neckline during a night out in New York City
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What a Marvel! Gym-honed Evangeline Lilly transforms into The Wasp with a sculpted figure-clinging bodysuit as she resumes filming for new Ant-Man movie
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Mel B power dresses for a court visit in Los Angeles amid claim her estranged husband Stephen Belafonte has been 'sleeping on a friend's couch'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Who's that girl? Beaming Justin Bieber emerges from church with a stunning brunette as he makes a statement in a neon blue 'Fear of God' jacket
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Jane Fonda, 79, wows in sheer dress as she joins  Robert Redford, 81, at Our Souls At Night premiere in NYC... after admitting she wished sex scene was longer
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Feeling broody? Prince Harry pulls faces and plays with two-year-old daughter of Paralympian in crowd at Invictus Games - after leaving Meghan Markle at home 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Jennifer Lawrence hides under a large hat and sunglasses as she keeps a low-profile while touching down in France for appearance at Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's scott the keys! Sofia Richie drives off in boyfriend Scott Disick's Mercedes G-Wagon after solo day of pampering in Beverly Hills
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Showing off the twins! Beyonce  puts her bountiful bust on display in low-cut jacket... and reveals bling dedicated to her children Blue, Sir and Rumi
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'With my dream girl': DailyMailTV star Jesse Palmer steals the show in dapper tuxedo... as he joins model girlfriend Emely Fardo at charity event 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I think she craves attention': Ariel Winter's mom Crystal Workman accuses celebrity daughter of reigniting their feud for publicity
+           
+          Speaking out
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Meet Victor! Tom Hanks' son Chet, 27, scores recurring role as war veteran in Curb Your Enthusiasm
+           
+          Plays a soldier dating Sammi Greene 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Keeping tongues wagging! Bella Thorne steps out with kissing buddy Tana Mongeau for lunch in LA one day after their steamy makeout session
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pierce Brosnan, 64, cuts a relaxed figure as he cruises around Croatia with wife Keely Shaye Smith, 54, in the midst of filming Mamma Mia: Here We Go Again 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm not f**king leaving!' Miley Cyrus backtracks on claims that 'if Trump won the election she'd flee America'... and regrets Wrecking Ball video
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Chris Berman relives agonizing moment he found out his wife died in a car crash at a Mets baseball game with his son - and had to pretend everything was okay
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Something to celebrate! A delighted Frankie Muniz steps out for dinner with his girlfriend in LA after receiving the highest score on DWTS
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Both husbands! Cheryl Hines poses with hubby Robert F. Kennedy, Jr. and onscreen ex Larry David at Curb Your Enthusiasm's season nine premiere
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cheers! Arnold Schwarzenegger takes a selfie with two busty brunettes as he  downs a few beers at Oktoberfest in Munich
+           
+          A regular at the event
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Making them green with envy! Kesha dons lime colored suit and vibrant pink shirt as she lights up the stage in Nashville for her Rainbow Tour
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          He's found his calling: Damian Lewis films intense confrontation with Maggie Siff for series three of Billions before quickly checking his phone during break
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Age-defying! Sharon Stone, 59, looks youthful as she goes braless in an all-white ensemble on LA outing
+           
+          In Beverly Hills on Wednesday
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm not trying to be private here': Katy Perry promises candid glimpse into her secret world as she releases official trailer for YouTube film
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Red carpet PDA! Ellen Page and girlfriend Emma Portner hold hands at the premiere of her latest film Flatliners in LA
+           
+          On the red carpet
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          A stroke of good luck! Dwayne 'The Rock' Johnson gets touchy-feely with Neve Campbell as she flaunts form in floral dress on set of Skyscraper
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Daddy duty! Scott Disick plays the role of doting father during frozen yogurt run with his kids in Los Angeles
+           
+          The 34-year-old reality television star 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Going major for The Mayor! Lea Michele strikes a seductive pose in a silver maxi dress with dark lipstick for a special screening of her latest show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I was in a s**t place': Riverdale star Lili Reinhart reveals how her debilitating battle with anxiety almost cost her the life-changing role in the hit CW show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Wet behind the ears! Gorgeous model Kate Upton flaunts her legs  in leather mini skirt as she leaves swanky hair salon in Beverly Hills with damp hair
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Flawless! Katie Holmes shows her natural beauty as she goes without makeup while shopping in Los Angeles
+           
+          Had her brunette locks swept back from her face
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Jamie Foxx, 49, looks chic as he rocks leather bomber jacket at White Famous premiere in Los Angeles
+           
+          New comedy show for Katie Holmes' beau 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Missing something? Singer Madison Beer, 18, wears an oversized sweater as a dress for lunch in Los Angeles with model Josie Canseco
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's a beauty! Ruby Rose dons floral silky sleepwear to promote cosmetics brand as girlfriend Jessica Origliasso watches on adoringly
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She calms my nerves': Modern Family's Eric Stonestreet gushes about his new girlfriend Lindsay and new rescue dog while visiting Ellen DeGeneres' show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Has Sahara Ray lost more weight? Justin Bieber's 'ex-fling' looks unrecognizable as she shows off her VERY slender frame
+           
+          Different look
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Megyn Kelly is an a**': NBC star under fire for interview with Jane Fonda, who she hinted should only be admired for her body while mocking her career 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cheer we go! Kourtney Kardashian and beau Younes Bendjima are joined by Naomi Campbell and Lenny Kravitz at soccer game in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Wearing white after Labor Day! Nina Dobrev breaks major fashion rule as she debuts short bob haircut at the premiere of Flatliners 
+           
+          Looking all white
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'It was not true': Jared Leto denies ever giving used condoms to his Suicide Squad co-stars despite long-running rumors
+           
+          My So Called Life star
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The Next Generation! Sons of Jude Law, Pamela Anderson and P. Diddy take advantage of fashion's famous offspring trend to star in new D&G ad
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Braless Selena Gomez flashes her toned tum in a crop top during break from Woody Allen movie... four months after kidney transplant
+           
+          Cameras rolling
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I thought it was f****** awesome!' Harrison Ford reveals his reaction when he first read the script for Blade Runner 2049
+           
+          Talking in New York
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Those boots were made for walking! Model Jessica Hart struts her stuff in thigh-high boots as she takes adorable Yorkshire Terrier pup for a stroll in NYC
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Out of this world! Olivia Culpo rocks knee high boots and massive shoulder pads for retro-yet-futuristic look on the streets of Paris
+           
+          Model behavior
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She's a LIAR!' Kim Kardashian brands Caitlyn Jenner 'shady and 'not a good person' in argument over her controversial tell-all in new KUWTK clip
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'There is still a domestic violence case open': Audrina Patridge is only being civil with estranged husband Corey Bohan 'for the sake of their daughter'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          In full bloom! Elle Fanning flashes her floral underwear in trench coat as she films rainy scene for Woody Allen
+           
+          Not your typical flasher
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Reese's pieces! Witherspoon looks darling in short floral print dress as she shows off her Draper James fall collection in Costa Mesa
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Girl On Fire! Alicia Keys shows off very bright hair as she plants sweet smooch on hubby Swizz Beatz to celebrate his fashion collaboration in New York
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'As long as my body allows me': Angel Adriana Lima wants to keep doing Victoria's Secret Fashion Shows 'at least until I am 40'
+           
+          Catwalk queen
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Maverick and me! Katherine Schwarzenegger posts sweet selfie with her pet dog who inspired her new children's book
+           
+          Push for pet adoption
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We really appreciate your support': Bindi Irwin promotes Australia Zoo's latest Crikey! Magazine as she thanks fans for 'changing the world'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Back in black! Karlie Kloss stuns in a stylish  jumpsuit for a night out during Paris Fashion Week
+           
+          Looked elegant in the French capital
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bare necessities! Socialite Lady Victoria Hervey, 40, teases plenty of sideboob as she strips down to her underwear for pulse-racing shoot in Kenya
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Game on: Donald Trump Jr ditched Secret Service so he could hunt MOOSE in Canada
+           
+          There were many fevered rumors about him ditching security
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We really want to talk about that right now?': Jane Fonda SNAPS at Megyn Kelly after NBC host asks her to reveal what plastic surgery she has had done 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Double duty! Rita Ora is announced as host and performer at the 2017 MTV Europe Music Awards
+           
+          The ceremony will take place on November 12
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pretty in pink! Kyra Sedgwick defies her 52 years in snug wrap dress while promoting ABC series
+           
+          The evergreen mother-of-two looked gorgeous 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Son's out guns out! Brooklyn Beckham shows off his biceps in tank top as he walks his bike in New York City 
+           
+          Studying at college in Big Apple
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Top of the charts AND the crops! Lorde showcases her trim figure and toned tummy in a sheer midriff outfit as she hits the stage in London
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Gigi Hadid suffers a wardrobe malfunction as she flashes her cleavage and underwear in VERY plunging gown as she steps out in Paris during Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hot stuff! Barbara Palvin shows off her endlessly long legs in thigh-baring pink dress during Paris Fashion Week
+           
+          Hungarian model
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Taut and toned! VS Angel Stella Maxwell reveals washboard abs as she leaves LA gym in sports bra and skintight leggings
+           
+          She is 27
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Trump got power by 'tweeting in the wind and stirring up mess' says Michelle Obama as she says women who didn't support Hillary voted 'against their own voice'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'They know NOTHING, we haven't even communicated': Furious Kim Kardashian slams KUWTK producer after he 'confirms' Khloe's pregnancy
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Oi, Deneuve! Who are you looking at? Kate Moss and the French model meet at Paris Fashion Week
+           
+          Faded into the background 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bethenny Frankel's ex-husband Jason Hoppy appears in court and learns his trial for stalking the Real Housewives star has been postponed 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Brad Pitt's 'forgotten' grandmother Betty Russell passes away at age 95 without fulfilling her dying wish of seeing her star grandson one last time
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sienna Miller embraces casual chic in grey T-shirt and red tracksuit bottoms as she leaves the theatre after performance in Cat On The Tin Roof
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm really not sure what my look is these days': Billy Ray Cyrus displays BIZARRE appearance on TV as he attempts to redo his famous mullet 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Same week, same dress, same place. Different year': Bar Refaeli shares nearly identical baby bump photos from first and second pregnancy
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Leg-flaunting Alessandra Ambrosio highlights her svelte figure with statement purple waist belt as she steps out in Paris during Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's ready for a big night! Make-up free Lena Dunham carries glamorous yellow dress and scarlet heels while out in LA
+           
+          The Girls star
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Heavily-pregnant Heidi Pratt cradles baby bump as husband Spencer lovingly kisses her on cheek during cheesy beach photo shoot
+           
+          Expecting first child
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Top of the crops! Victoria's Secret model Georgia Fowler flaunts taut torso in two-piece ensemble during Paris Fashion Week
+           
+          On Wednesday
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Matthew McConaughey strolls with agent Jim Toth in NYC... after gaining weight for White Boy Rick role
+           
+          The 47-year-old Oscar winner
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cindy Crawford, 51, and Rande Gerber, 55, showcase their effortless style during stroll in Paris... as daughter Kaia rules runway at fashion week 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Rob Kardashian 'is suing ex Blac Chyna for trying to STRANGLE him with a phone cord after consuming drugs and alcohol'
+           
+          Explosive allegations 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kanye West is set to debut his Yeezy Season 6 collection at Paris Fashion Week - one year after Kim Kardashian was robbed at gunpoint in the city
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She needs time to recharge': Lady Gaga's designer pal Jean-Charles de Castelbajac says star will bounce back as she deals with health woes
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Good luck!' Simon Cowell takes a swipe at Katy Perry for American Idol gig as he doesn't understand singers judging singers
+           
+          Has megabucks deal
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Megyn Kelly's second episode dips 10 percent in early ratings as she falls behind 'Live With Kelly & Ryan' after eking out a win in premiere episode
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Looking ace! Natalie Portman shows off her fit physique in tight workout gear as she works up a sweat during a tennis game
+           
+          In LA
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Not so ready for her close up! Kate Moss isn't camera ready as she steps out in an all-black ensemble and dark shades during Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She means business! Jenna Dewan Tatum looks chic in a low-cut lace bodysuit and white blazer as she heads to meetings in Beverly Hills
+           
+          Looking all white
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Sheer-ly amazing! Ashley Graham shows off her shapely pins in tight black leggings with mesh panels after workout in New York 
+           
+          The 29-year-old model 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Tara Reid flashes a hint of underboob in a torn tee as she arrives at Christina Milian's birthday bash in Hollywood on the arm of a mystery man
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Third time's a charm! Nicole Richie turns heads as she steps out in a trio of striking bold and bright outfits in NYC
+           
+          The reality star turned fashion designer
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Hitting a fashion high note! Sarah Jessica Parker cuts effortlessly chic figure as she shows off hint of cleavage in black and beige dress
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          CURL POWER: Spent years straightening your hair? So had these women, but could they be persuaded to go au naturel now curls are finally in vogue
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'There are enough jobs  for both of us': Bella Hadid insists she does not compete with sister Gigi as she smolders in shoot for Harper's Bazaar Arabia
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Petra Ecclestone flaunts her cleavage in sizzling red gown alongside supportive sister Tamara at Vordere Legends Ball... after she ditches Stunt surname amid divorce 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Marilyn Monroe's jeans, Mick Jagger's leather vest and tarot cards signed by David Bowie: Tommy Hilfiger prepares to auction off collection of treasures
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          American Idol champion Scotty McCreery announces his engagement to 'perfect girl' Gabi Dugal after over five years of dating 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Tim Allen claims Last Man Standing was cancelled because it featured a funny, likable and conservative family man 
+           
+          Home Improvement star
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kourtney Kardashian, 38, slips into a slinky  blue sports top and skinny satin leggings as she joins beau Younes Bendjima, 24, for a soccer game in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pregnant Nicky Hilton shows off her baby bump in a boho-style kaftan and Daisy Dukes as she grabs a coffee in New York City
+           
+          Expecting second child
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Being a woman should not be a disadvantage!': Nicole Kidman pens letter against domestic violence after winning Emmy for playing battered wife
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Janet Jackson, 51, shows off her post-baby curves in FOUR sexy looks as she heads back on the road for her State Of The World tour after birth of son
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           A working relationship! Gwyneth Paltrow looks smart in a ruffled blouse as she attends a business meeting with Brad Falchuk on her 45th birthday
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She's loving it': Prince Harry reveals Meghan is a huge fan of the Invictus Games - as he steps out in his beloved navy chinos for the THIRD day in a row
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Youthful beauty Monica Bellucci, 52, is a vision in breathtaking pink gown as she receives prestigious Donostia Award at San Sebastián Film Festival
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE - 'I want out of my marriage': Kelly Dodd declares she wants a divorce after it's revealed police were called to RHOC star's home six times in July
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          New minis that don't reveal too much and SANDRA HOWARD, who hated baring her legs in the 60s, is a convert
+           
+          Seven high street styles with surprising results
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The secret's out! A top dermatologist reveals how celebs avoid looking stressed and tired - and how YOU too can achieve a red carpet-worthy glow
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Check out the app adding sparkles to Rosie Huntington-Whiteley and Eva Chen's Instagram feeds, plus the fashions to shop to maximize your twinkle-factor
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Felicity Jones spotted on set of On The Basis Of Sex in a bridal gown playing lead role of Ruth Bader Ginsbur... after Natalie Portman dropped out of the film
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What a tease! Victoria Beckham turns heads in daring slinky blouse... as she tricks fashion fans into thinking she's braless during evening out in London
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I worried I wasn't the hottest blonde': Margot Robbie feared she would disappoint in sexy role for The Wolf Of Wall Street as she stars in VERY raunchy shoot
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's got the blues! As Olivia Munn tries to make baby blue the color of the season, shop FEMAIL's edit of chic fashions available in the cool icy tone
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Their fairytale continues! Once Upon A Time vets Ginnifer Goodwin and Josh Dallas are a picture-perfect family with their two sons in LA
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kate's ginger cookie remedy: William reveals his pregnant wife has tried the traditional cure for nausea as she battles severe morning sickness
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'It's all connected to this singular threat': Stranger Things season two promises new monsters and love interest for Winona Ryder.
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE: Did Kevin Hart and Montia Sabbag have unprotected sex? Woman at the center of scandal REFUSES to say whether or not the actor used condoms 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Makeup-free Courtney Love cuts a glum figure in Paris as it's revealed daughter Frances Bean Cobain 'earns $94k a MONTH' from late dad Kurt's publicity rights
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Usain Bolt cheerfully swigs from giant pitchers of beer as he and girlfriend Kasi Bennett dress up in Bavarian costumes at Oktoberfest in Munich
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Orgasmic Gwyneth Paltrow and Jessica Alba get steamy in a sweat lodge as they join James Corden for hilarious Carpool Karaoke segment
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Down he goes! Dancing With The Stars judge Bruno Tonioli, 61, laughs so hard at joke made by Carrie Ann Inaba he FALLS OFF HIS SEAT during live taping
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Shady lady! Kourtney Kardashian, 38, smiles as she shops for sunglasses in Paris with beau Younes Bendjima as Khloe's pregnancy is 'confirmed'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Usher's accuser Quantasia Sharpton caught listening to his song Bad Girl... after SUING him for having sex with her when he knowingly had herpes
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Who needs a private jet! Ivanka Trump flies commercial as she arrives back in D.C. in a stylish ensemble and comfy flats, after trip to Detroit 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I could've ended up on Real Housewives Of Orange County!': Pioneer Woman Ree Drummond reveals she used to be a wild party girl in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Friends who met at church set up their own sunglasses brand - and made $25K overnight after Meghan Markle wore their shades in Toronto with Harry
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_middle.html  
+ 
+ 
+   
+   
+ DON'T MISS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Huma Abedin walks home in heels after dropping her son off at school - just two days after Anthony Weiner was sentenced for sexting an underage girl
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pitbull and Mark Cuban rescue cancer patients from Puerto Rico by sending their own private jets to fly them to the US to get treatment they need
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bristol Palin shares cute clips of daughter Sailor Grace, 21 months, choosing VERY eclectic outfit for the day, as she admits the tot wears 'whatever she wants'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Nineties TV series Party Of Five with Neve Campbell and Jennifer Love Hewitt 'getting rebooted'... only this time family members are immigrants
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We are devastated' Lisa Vanderpump mourns the sudden loss of her beloved Pomeranian Pink Dog with touching Instagram tribute
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Nicole Kidman rushes home to Australia following tragic death of family friend... after winning big at the Emmys
+           
+          Heartbreak for actress
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Natalie Portman gets hot and heavy with co-star Oscar Isaac in a steamy sex scene from riveting teaser trailer for her new sci-fi thriller Annihilation
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Christie Brinkley's daughter Sailor will star in 2018 Sports Illustrated Swimsuit Issue, as clip captures moment mom surprised her with the news
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE: 'Anyone can take a picture with a very rich athlete': Millionaire boxer Floyd Mayweather, 40, DENIES dating reality star Abi Clarke, 26
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Model Gigi Hadid shrouds her svelte frame in a plunging full-length gown as she steps out between shows at Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Is this the moment Khloe and Tristan revealed their baby news? 'Pregnant' Kardashian posted cryptic 'dad and mom' photo three months ago
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Baby carriage... but no marriage! 'Pregnant' Khloe Kardashian and Kylie Jenner have 'NO plans to wed their baby daddies' as they want to take after Kourtney
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I want to make a mashup': Fergie responds to claims that Taylor Swift's Look What You Made Me Do sounds like her hit song My Humps
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          It's the $42 million woman! Sofia Vergara shows off her incredible curves in three striking outfits at GMA after being named highest paid actress on TV
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Saturday Night Live adds three new cast members as it says goodbye to Bobby Moynihan, Vanessa Bayer and Sasheer Zamata
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I thought they were just engaged!': Rosie Huntington-Whiteley sparks rumors she has married Jason Statham as she sports TWO rings on wedding finger
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Princess at war with her sister over $200million inheritance from their Italian film star mother who was 'obsessed with marrying them off to princes'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We are overwhelmed by your kindness!': Joanna and Chip Gaines thank fans for support after announcing end to HGTV's Fixer Upper
+           
+          They shocked millions 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'We'll see!': Real Housewives star Teresa Giudice says husband Joe will have to do 'amazing' when he gets out of prison for them to stay married
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bella Hadid turns heads in a plunging blazer and leather beret as she, sister Gigi and fellow supermodel Kate Moss step out during Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          California girl! Gwen Stefani steps out in embroidered olive pants with a graphic top fas she runs errands in Los Angeles
+           
+          Displayed toned arms
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Russell Crowe cuts a laidback figure as he sports relaxed tracksuit top after stopping by radio station in London
+           
+          Ddonned a pair relaxed black Nike zip hoodie 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I gained 70lbs in two years': Pretty Little Liars star Sasha Pieterse addresses weight gain as she reveals medical condition on DWTS
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Girls' night out! Courteney Cox is stylish in specs and an elegant mini-dress as she grabs a bite to eat at Craig's in West Hollywood with a female friend
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Wendy Williams, 53, flashes wedding ring as she continues to stand by her husband despite bombshell he is leading a double life with massage therapist, 32
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Va va voom! Victoria Justice flashes toned torso in sequined crop top and silky kimono as she celebrates Christina Milian's birthday in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'She's thinking maternity fashion': Kris Jenner will 'cash in on multi-millionaire Kylie's pregnancy'... as 'family begged her to protect herself from Tyga'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Well-suited for the job! Hailey Baldwin flashes her incredible abs in quirky striped co-ords as she goes shopping at Cartier in Paris during Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm looking forward to revisiting the character': Harrison Ford, 75, CONFIRMS there will be a fifth Indiana Jones movie... as he details punching Ryan Gosling 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Crowd pleaser!' Modern Family's Ariel Winter, 19, bares her belly as she applies for a gun permit in Burbank, California, with beau Levi Meaden
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Gimme more! Britney Spears, 35, shows off her cleavage and amazing washboard abs as she poses in a skimpy bikini for yet another gym snap
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pretty in pink! Age-defying Sharon Stone, 59, is sophisticated chic in satin slip dress as she steps out with mystery man in West Hollywood
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Baby on board! Heavily-pregnant Heidi Pratt shows off her bump in a strapless berry gown as she and husband Spencer swoon over each other
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          A VERY glamorous girl squad! Supermodel Naomi Campbell links arms with ex-French First Lady (and fellow original runway queen) Carla Bruni in Paris
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'My baby sister could be the first bi-racial princess in royal history': How Meghan Markle's estranged sibling pitched tell-all book to publishers
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Newly-engaged Kit Harington casually steps out in London... after confirming plans to marry girlfriend of five years Rose Leslie
+           
+          Game of Thrones pair
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          '12 stitches and it'll be back to normal': Bethenny Frankel shares video of skin cancer removal on her face as she visits doctor's office 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What a knock out! Candice Swanepoel shows off rock hard abs in a new work out campaign for Victoria's Secret... ahead of son's first birthday
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          We saw a lot of guys... it felt good!' Reese Witherspoon dishes on casting men for her comedy Home Again as she joins chic Margot Robbie on chat show
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bare-faced Kaia Gerber, 16, makes stylish exit from Paris hotel after triumphant strut down glamorous Yves Saint Laurent SS18 runway
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Back to school! Queen Letizia looks sophisticated as she steps out in grey tartan trousers and a delicate blouse to meet pupils in eastern Spain
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE 'It's nice to see the family getting bigger': Malika Haqq discusses Kardashians' expanding brood as BFF Khloe's pregnancy is 'CONFIRMED'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Giving it the bum rush! Tom Cruise denies claims he wore FAKE BUTT in his flick Valkyrie
+           
+          Fans keen to get to the bottom of it
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'What a thrill': Madonna surprises crowds with  impromptu standup comedy performance alongside Amy Schumer... as she leaves venue with man
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          They must be making a pretty penne! Sylvester Stallone's daughters Sistine and Sophia stun in new campaign for Dolce & Gabbana inspired by old Italy
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Tommy Lee, 54, awkwardly kisses girlfriend Brittany Furlan, 31, at Streamy Awards... after DENYING mile-high club claim
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Effortlessly chic Eva Mendes spends time with daughter Esmeralda in New York... after admitting she feels 'guilt' as a working mother
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Demi Lovato dons daring cold shoulder blouse and electric blue leather leggings as she greets fans in London
+           
+          Busy promoting her new music 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          SPOILER ALERT! This Is Us season two premiere may have revealed how Jack Pearson dies
+           
+          It's been a mystery since episode five
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Stylish Gigi Hadid flashes the flesh in a bold jacket worn off one shoulder as she arrives in Paris for Fashion Week fitting at Izabel Marant 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I've been waiting for you!' Miley Cyrus touts country roots to snatch honky-tonk singer Ashland Craft from Blake Shelton on The Voice
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Cream of the crop (tops!): Emily Ratajkowski flaunts her slender frame in ab-flashing jumper as she heads out in Paris during Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Still a blonde bombshell! Risky Business hottie Rebecca De Mornay, 58, steps out with lookalike daughter Sophia, 19  in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Makeup-free Gwyneth Paltrow wears an elaborate patterned coat and sheer top as she holds hands with boyfriend Brad Falchuk on low-key dinner date
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Queen of the prints! Mathilde of Belgium looks chic in a statement wrap dress as she gives King Philippe's arm a loving squeeze in Luxembourg 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Rita Ora strips down to little more than a lacy bra to tease a look at her assets in sultry video
+           
+          The Body On Me singer took to Instagram
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Fashionable flyer! Maggie Gyllenhaal bundles up in beige scarf and sheer black top as she jets into Los Angeles
+           
+          Rocked large shades
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Youthful Elizabeth Hurley, 52, is a work of art in a figure-hugging black dress as she attends private gallery viewing in London
+           
+          Remarkably ageless
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Odell Beckham Jr hints 'dog peeing' touchdown celebration was jibe at Trump who called any player who failed to stand for anthem a 'son of a b***h'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          ABC's World News Tonight with David Muir dethrones NBC as the most watched evening newscast with 8.25m viewers for the first time in 21 years
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I feel like I got my life back': Debbie Gibson departs Dancing With The Stars after battling with impact of Lyme disease on show
+           
+          Second star to go
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Model of the moment Kaia Gerber, 16, continues her fashion world takeover as she steals the show at Yves Saint Laurent Paris spectacular
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Thanks to all who stood up': Jimmy Kimmel shares snap of baby son Billy smiling... as he celebrates failure of Graham-Cassidy health care bill
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Frances Bean Cobain 'earns $94k a MONTH' from late dad Kurt's publicity rights... as she remains locked in battle with ex-husband over Nirvana star's  guitar
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Trying to get rid of her Empire? Taraji P Henson relists luxury Hollywood Hills Home for sale for $2.6m complete with  movie theater and games room
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What's wrong Kim? Kardashian looks miserable as she goes out in just a bra... amid reports she's struggling to cope with Kylie Jenner's pregnancy
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I started having mental breakdowns': SNL's Pete Davidson, 23, reveals he's been diagnosed with borderline personality disorder
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lena Dunham looks chic in a quirky red fur-trim dress and sharp tuxedo blazer as she heads to gig... after wading into Kylie's 'pregnancy news'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pretty in pink! Makeup- free Alicia Keys stuns in lacy lingerie as she teams with Stella McCartney for photoshoot to support women's health 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Making a quick getaway? 'Hot Felon' Jeremy Meeks goes shirtless to show off his chiseled torso on motorcycle for photoshoot
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Senegalese model reveals how she grew up being pressured to lighten her skin and how women would BURN their own flesh off with bleaching products
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Plant it like Beckham! David and Victoria reveal plans for 'fortress' garden with TWENTY THREE types of trees (spare a thought for the landscapers!)
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I'm open to love': Newly-single Fergie flashes flesh in mesh outfit as she talks about dating following split from husband Josh Duhamel
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Baseball star Jose Reyes' ex-mistress is arrested at Starbucks before court hearing over their love child after pulling a 'brass knuckle duster on strangers' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Huma Abedin heads home after a stressful 24 hours following ex-husband Anthony's sentencing for underage sexting as boss Hillary holds a book signing
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Timed perfectly!  Khloe Kardashian and Kylie Jenner 'share similar due dates for the births of their first children'
+           
+          Tots due in February, just after Kim's baby
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Harry sneaks Meghan into five-star hideaway: Couple share room at Canada hotel where suites have their own bar and dining room can cost $1,900 a night
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Meghan Markle has got competition! Prince Harry met by adoring fans in Toronto - and looks taken aback after he is PROPOSED to by one very eager MAN
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Don't rain on her parade! Leggy Selena Gomez locks lips with actor Timothee Chalamet as they film steamy scenes for Woody Allen's new flick
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Wigging out! Braless Cara Delevingne looks stunning as she dons plunging bedazzled pantsuit and silver halter dress for Los Angeles fashion shoot
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Feeling sassy? Australian model Jessica Hart draws attention to her pert posterior in a pair of TINY denim shorts in New York
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          We want Moore! Mandy puts on an elegant display in gorgeous backless gown for the This Is Us second season premiere in LA
+           
+          On the red carpet
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Va va vroom! Bella Hadid flashes her rippling abs in motorsport crop top and bold baggy jeans as she steps out in Paris during her fourth Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Rough riding together! Leonardo DiCaprio to reunite with Martin Scorsese for Theodore Roosevelt biopic
+           
+          The 42-year-old Oscar winning actor
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Do NOT disrespect my client': Blac Chyna's lawyer Lisa Bloom posts cryptic tweet as Rob Kardashian baby mama seeks  'seven figure' revenge porn settlement
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lewis-ing weight! Singer Leona shows off her new lithe frame in a scarlet bodycon dress at documentary screening in West Hollywood
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          A rip too far? Model Charlotte McKinney, 24, flashes her toned legs through extreme gaping hole in her jeans while at dinner with pals in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Leggy Barbara Palvin sizzles in plunging metallic dress for PFW... after being spotted with second-highest earning footballer in the WORLD Neymar
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Going into hiding! Kate Hudson, 38, conceals her buzz cut with a large hat as she attends a meet-and-greet for brand Fabletics in Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Showing their love! Steven Spielberg and wife of 26 years Kate Capshaw pucker up at star-studded premiere for HBO documentary at Paramount Studios
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          KUWTK producer 'CONFIRMS' Khloe Kardashian, 33, is pregnant with Tristan Thompson, 26,'... as Kim and Kylie 'prepare to welcome daughters'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kourtney Kardashian keeps a straight face as she goes casual cool with beau Younes Bendjima in Paris... amid family pregnancy news
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Rolling Stones star Ronnie Wood, 70, gives a thumbs up before joining wife Sally, 39, and their 15-month-old twin daughters for dinner in Barcelona
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Newlywed Kate Mara looks preppy in a short black dress as she cosies up to husband Jamie Bell at HBO premiere at Paramount Studios
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Diva Forever! AGT judge Mel B channels her Scary Spice heyday in a leopard print co-ord as she heads out with 'the love of her life' Gary Madatyan
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          From AM to PM! Smitten Christina Milian celebrates her 36th birthday in style with hunky new French boyfriend Matt Pokora in Hollywood
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Steven Seagal labels NFL knee protests 'outrageous, a joke and disgusting' as he backs Trump and accuses 'Obama-ites' of trying to overthrow the President
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Kylie Jenner, 20, 'fell pregnant with Travis Scott after just two months of dating'... as it's claimed family is 'relieved she never had a baby with ex Tyga'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          What a buzz kill! Jessica Alba's Honest Company sues medical marijuana company for trademark infringement
+           
+          A lawsuit has been filed against the company
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The tight stuff! Kate Winslet shows off her figure in form-fitting cut-out LBD at The Mountain Between Us screening in New York City
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Au naturel! Stunning and fresh-faced Lindsay Lohan graces her first fashion magazine cover in two years for l'Officiel Spain
+           
+          She's a Mean Girl
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Leggy Liv Tyler, 40, looks simply sensational in chic sheer blouse as she joins her fiancé Dave Gardner for romantic dinner date in London
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Number one looks good! Cardi B performs in thigh-high boots and a racy leather outfit as Azealia Banks labels her 'a poor man's Nicki Minaj'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Debra Messing says that she 'regrets going on' Megyn Kelly Today and is 'dismayed by her comments' about the gay community
+           
+          Will & Grace star hit out
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Pick me up! Kirsten Dunst opts for comfort in black overalls while on afternoon coffee run in LA
+           
+          The 35-year-old Interview with the Vampire actress 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Bill's Fox comeback: O'Reilly appears on Hannity to say he should have 'fought back' when advertisers pulled out of his show but gloats he had 'great summer off' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lady in red! Blac Chyna covers up in burgundy velour sweatsuit... after being unveiled on cover of  Bombshell
+           
+          She smiled and gave a peace sign
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'This has been an amazing adventure': Chip and Joanna Gaines shock fans and announce they are ENDING hit Fixer Upper after five seasons
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Scarlet sensation! Madonna is ravishing in red for MDNA Skin launch... after poking fun at Kim Kardashian with impression
+           
+          The Material Girl 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          EXCLUSIVE: Cast of Law & Order True Crime depicting Lyle and Erik Menendez'  murder of their parents in the family's mansion say they 'deserve parole' 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          At her Beck and call! Supportive David Beckham looks trendy denim shirt and red beanie hat as he visits wife Victoria's store in London
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Lottie Moss puts on a leggy display in thigh-skimming mini skirt and chic fluffy gilet as she enjoys glamorous night out in London
+           
+          Hitting the town
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Scientists discover why Parkinson's sufferers like Robin Williams may suffer hallucinations 
+           
+          New research from Amsterdam
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Yo Gotti named person of interest in shooting of fellow Tennessee rapper Young Dolph after their crews got into altercation outside Hollywood hotel
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Coffee seems to be working! Selma Blair beams on caffeine run in LA as she rocks black overalls
+           
+          In a cheery mood as she ran errands
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Low-key Alessandra Ambrosio flashes her incredibly toned abs in a basic top and chic trousers as she cuts a casual figure to jet out of Los Angeles
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'I love her madly, I would have her on toast': Ruby Rose gets VERY descriptive about her admiration for Pitch Perfect co-star and friend Rebel Wilson 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Missing something? Karlie Kloss goes shirtless under a red blazer as she shows off her toned stomach  during Paris Fashion Week
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Channeling the spirits': Singer Lorde sports crescent moon-printed cat suit with wide-brim black felt hat... after admitting she was 'basically a witch'
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Collegiate chic! Emma Roberts keeps it casual in University of Wyoming T-shirt and mom jeans while out in LA
+           
+          She transforms into a Hollywood glamor girl 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The farce is strong in him! John Boyega promotes Pacific Rim sequel and gets ribbed by Star Wars star Mark Hamill
+           
+          Poking fun
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She can surely stomach it! Gigi Hadid is mobbed by fans as she flaunts toned abs in a cropped polo neck while promoting new fashion range in Spain
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          She's still got it! Heather Graham, 47, puts on a leggy display in a clinging patterned LBD while heading to dinner in West Hollywood
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Having a wheely good time! Kate Hudson gets carried away as she partakes in Carpool Karaoke session with James Corden 
+           
+          Pair had a blast
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Who doesn't love a shotgun wedding?' Pregnant Julia Stiles MARRIES fiance Preston J Cook on the beach in Seattle
+           
+          Baby due at end of year
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          You're the top! Sofia Vergara and Kaley Cuoco step out on opposite coasts ...after being crowned first and second highest-paid TV actresses
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          'Everything is different': Ellen Page says she feels 'happiness and inner peace' since coming out as gay in 2014
+           
+          Helped career, too
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ Today's headlines 
+ 
+ 
+   
+   
+ Most Read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Still slaves in all but name: Haunting pictures show how little life changed for many freed slaves in the... 
+ 
+ 
+ 
+ 
+ 
+ Inside the sex scandal that brought down a multi-million dollar televangelist empire when a pastor 'raped'... 
+ 
+ 
+ 
+ 
+ 
+ Donald Trump joked he would make Princess Diana take an HIV test before he fantasized having sex with her in... 
+ 
+ 
+ 
+ 
+ 
+ Mars missions should be all-female to avoid astronauts having SEX during 1.5-year journey, according to... 
+ 
+ 
+ 
+ 
+ 
+ Puerto Rico's 'aid mountain' builds up: Desperately needed supplies are NOT being delivered because there... 
+ 
+ 
+ 
+ 
+ 
+ Heard but NOT seen: Why are NFL fans not being seen on TV booing players' national anthem protests? 
+ 
+ 
+ 
+ 
+ 
+ Hugh Hefner's wife Crystal Harris, 31, 'will inherit nothing after signing an ironclad prenup before their... 
+ 
+ 
+ 
+ 
+ 
+ Playboy founder Hugh Hefner dies of natural causes aged 91 surrounded by loved ones at his infamous... 
+ 
+ 
+ 
+ 
+ 
+ 'You were a gentleman': Pamela Anderson weeps in emotional video tribute to Hugh Hefner as she joins Kim... 
+ 
+ 
+ 
+ 
+ 
+ Playboy to the end! How Hugh Hefner will be buried in LA cemetery plot next to his first magazine cover girl... 
+ 
+ 
+ 
+ 
+ 
+ 'You made me who I am': Kendra Wilkinson breaks her silence on Hugh Hefner's death - joining a host of... 
+ 
+ 
+ 
+ 
+ 
+ PIERS MORGAN: Farewell to the Hef, the King of Sex and an unlikely champion of freedom, equality and... 
+ 
+ 
+ 
+ 
+ 
+ 'Hefner did not lead the sexual revolution - he was a pornographer who locked women up': Feminists lead... 
+ 
+ 
+ 
+ 
+ 
+ 'I spent so much of my life looking for love in all the wrong places': How Hefner boasted of bedding more... 
+ 
+ 
+ 
+ 
+ 
+ Into the rabbit hole! How Hugh Hefner's $100million Playboy Mansion loved by Trump was at center of Bill... 
+ 
+ 
+ 
+ 
+ 
+ Hugh Hefner's 31-year-old widow claims sex drug Viagra made Playboy magnate 'lose his hearing' 
+ 
+ 
+ 
+ 
+ 
+ How Playboy magazine which saw Marilyn Monroe, Marge Simpson and even Donald Trump grace the cover brought... 
+ 
+ 
+ 
+ 
+ 
+ Horrifying portraits of American soldiers torturing women with pliers and murdering babies are used for... 
+ 
+ 
+ 
+ 
+ 
+ Beijing orders North Korean businesses in China to shut down by January as part of the latest UN sanctions... 
+ 
+ 
+ 
+ 
+ 
+ Russian troops are dispatched to the border of North Korea and China just days after Putin warned a war on... 
+ 
+ 
+ 
+ 
+ 
+ Seoul's VERY special forces: South Korea invests £18million and creates a crack weapons team to protect... 
+ 
+ 
+ 
+ 
+ 
+ North Korea accuses 'old lunatic' Trump of exploiting American student Otto Warmbier’s death and insists he... 
+ 
+ 
+ 
+ 
+ 
+ Is this the Mona Lisa NUDE? Louvre experts believe Leonardo da Vinci drew naked version after studying... 
+ 
+ 
+ 
+ 
+ 
+ New York's MTA is under fire for $100M on mysterious metal towers popping up at tunnels and bridges - and no... 
+ 
+ 
+ 
+ 
+ 
+ Top CEOs reveal the four qualities you should highlight on your CV to prove you're a future leader (and your... 
+ 
+ 
+ 
+ 
+ 
+ The terrifying moment of tragedy in Yosemite: What one climber saw when an apartment-sized boulder fell past... 
+ 
+ 
+ 
+ 
+ 
+ Worldwide airport chaos caused by a SINGLE SWITCH plunges check-in desks into meltdown as computers crash... 
+ 
+ 
+ 
+ 
+ 
+ Two suspected members of Hitler's mobile 'Einsatzgruppen' death squads are identified, aged 94 and 95, as... 
+ 
+ 
+ 
+ 
+ 
+ 'Miracles do happen!' Thankful Steve Scalise returns to a hero's welcome in Congress three months after... 
+ 
+ 
+ 
+ 
+ 
+ MORE HEADLINES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+            Playboy founder Hugh Hefner dies of natural causes aged 91 surrounded by loved ones at his infamous $100million Beverly Hills mansion
+             
+ 
+ 
+ 
+   
+            Hugh Hefner's wife Crystal Harris, 31, 'will inherit nothing after signing an ironclad prenup before their wedding and was never added to his will'
+             
+ 
+ 
+ 
+   
+            Fury as Trump mocks cancer-stricken  John McCain's disability, the legacy of   being tortured as a Vietnam POW
+             
+ 
+ 
+ 
+   
+            'I miss him every day': Lyle Menendez reveals he has not spoken to brother Erik in 17 years and gets his greatest source of joy from his sexless 'contact visits' with wife he married in prison
+             
+ 
+ 
+ 
+   
+            Trump warns NFL owners that 'their business is going to go to hell' over National Anthem protests as he complains players weren't allowed to wear pink socks: 'One guy's mother had breast cancer!'
+             
+ 
+ 
+ 
+   
+            The terrifying moment of tragedy in Yosemite: What one climber saw when an apartment-sized boulder fell past him on El Capitan and killed one victim thousands of feet below
+             
+ 
+ 
+ 
+   
+            Canadian model, 24, loses sight in one eye after tattoo goes horribly wrong and she shares the sickening results on Facebook
+             
+ 
+ 
+ 
+   
+            Inside the sex scandal that brought down a multi-million dollar televangelist empire when a pastor 'raped' his church secretary and defrauded his flock out of $158 million
+             
+ 
+ 
+ 
+   
+            'I spent so much of my life looking for love in all the wrong places': How Hefner boasted of bedding more than a thousand women and married three times but at 85 said he'd never found his soulmate 
+             
+ 
+ 
+ 
+   
+            'Megyn Kelly is an a**': NBC star under fire for interview with Jane Fonda, who she suggested should only be admired for her body while mocking her career after 'Barbarella' during Fox News days
+             
+ 
+ 
+ 
+   
+            Worldwide airport chaos caused by a SINGLE SWITCH plunges check-in desks into meltdown as computers crash leaving huge queues of furious passengers
+             
+ 
+ 
+ 
+   
+            Chris Berman relives the agonizing moment he found out his wife died in a car crash at a Mets game with his son - and had to pretend everything was OK until he could break the news to his kids their mother was dead
+             
+ 
+ 
+ 
+   
+            Topless female soccer fan, 23, is arrested after refusing to put her top back on after flashing 7-year-old boy
+             
+ 
+ 
+ 
+   
+            Still slaves in all but name: Haunting pictures show how little life changed for many freed slaves in the South after the Civil War
+             
+ 
+ 
+ 
+   
+            'Did you really have to do this?' The last words of estranged wife as her ex-husband gunned down her and seven guests in horrific football party shooting
+             
+ 
+ 
+ 
+   
+            Into the rabbit hole! How Hugh Hefner's $100million Playboy Mansion loved by Trump was at center of Bill Cosby's rape scandal, had hot tub disease outbreak and fell into disrepair - but Hef refused to leave
+             
+ 
+ 
+ 
+   
+            Shocking video shows the moment police shoot dead a homicide suspect after standoff on California freeway
+             
+ 
+ 
+ 
+   
+            Beijing orders North Korean businesses in China to shut down by January as part of the latest UN sanctions against Kim Jong-un
+             
+ 
+ 
+ 
+   
+            Man, 55, 'strangles his wife of 20 years, 48, with a telephone cord after coming home from a vacation to find she had filed for divorce'
+             
+ 
+ 
+ 
+   
+            Horrifying portraits of American soldiers torturing women with pliers and murdering babies are used for propaganda by North Korea as posters created by Kim Jong-il’s regime are displayed in public
+             
+ 
+ 
+ 
+   
+            Cop escorting Trump's motorcade FALLS off his motorcycle and is left in agony on side of highway
+             
+ 
+ 
+ 
+   
+            Playboy to the end! How Hugh Hefner will be buried in LA cemetery plot next to his first magazine cover girl Marilyn Monroe after paying $75,000 for it in 1992
+             
+ 
+ 
+ 
+   
+            Masseur, 24, 'ripped off woman's sheet and committed sex act on her during session at nationwide chain that COVERED UP his previous molestation of three women', according to $25million lawsuit
+             
+ 
+ 
+ 
+   
+            Hugh Hefner's 31-year-old widow claims sex drug Viagra made Playboy magnate 'lose his hearing'
+             
+ 
+ 
+ 
+   
+            Battle of the network stars: NBC brass tell Debra Messing to 'stop attacking' Megyn Kelly after 'Will & Grace' star's very public lashing of the 'Today' host
+             
+ 
+ 
+ 
+   
+            Bethenny Frankel's ex-husband Jason Hoppy appears in court and learns his trial for stalking the Real Housewives star has been postponed because the DA isn't ready 
+             
+ 
+ 
+ 
+   
+            'Life is too short to be living someone else's dream': The extraordinary and debauched life of Hugh Hefner, the original Playboy who turned a love of movies, sex and women into a global empire
+             
+ 
+ 
+ 
+   
+            Megyn Kelly bails on Edie Falco interview at last second as NO celeb guests appear on episode four of her NBC show in wake of Jane Fonda and Debra Messing drama
+             
+ 
+ 
+ 
+   
+            Game on: Donald Trump Jr ditched Secret Service so he could hunt MOOSE in Canada
+             
+ 
+ 
+ MOST READ IN DETAIL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_bottom.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ From the Makers of Candy Crush 
+ Farm Heroes Saga, the #4 Game on iTunes. Play it now! 
+ 
+ 
+ 
+ more 
+ 
+ 
+ 
+ 
+  <img src='http://tag.researchnow.com/t/beacon?pr=41&ca=CAMPAIGNNAME&pl=PLACEMENTNAME&cr=CREATIVENAME&si=SITENAME&adn=3&tt=3' />  
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_left_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_middle.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_left_bottom.html  
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_right_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_top.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_middle.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/halfsky_right_bottom.html  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_left_bottom.html  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/sky_right_bottom.html  
+ 
+ class fe.views.body_modules.PostPanels 
+ 
+ 
+ 
+ class fe.single_article.gallery_slideshow.GallerySlideshow 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/interstitial.html?id=interstitial-0-ad  
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/interstitial.html?id=interstitial-1-ad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.fff.JsFFF 
+ 
+ [if gte IE 8]><! 
+ 
+ <![endif] 
+ class fe.views.adverts.AdvertsInit 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/mpu_channel.html  
+ 
+ class fe.views.footer.Footer 
+ 
+ 
+ 
+   
+   
+ Back to top 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ U.K. 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ Sports 
+ 
+ 
+ 
+ 
+ U.S. Showbiz 
+ 
+ 
+ 
+ 
+ Australia 
+ 
+ 
+ 
+ 
+ Femail 
+ 
+ 
+ 
+ 
+ Health 
+ 
+ 
+ 
+ 
+ Science 
+ 
+ 
+ 
+ 
+ Money 
+ 
+ 
+ 
+ 
+ Video 
+ 
+ 
+ 
+ 
+ Travel 
+ 
+ 
+ 
+ 
+ Columnists 
+ 
+ 
+ 
+ 
+ DailyMailTV 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sitemap 
+ Archive 
+ Video Archive 
+ Topics Index 
+ Mobile Apps 
+ Screensaver 
+ RSS 
+ Text-based site 
+ Reader Prints 
+ Our Papers 
+ Top of page 
+ 
+ Daily Mail 
+ Mail on	Sunday 
+ This is Money 
+ 
+ Metro 
+ Jobsite 
+ Mail Travel 
+ Zoopla.co.uk 
+ Prime Location 
+ 
+ 
+ Published by Associated Newspapers Ltd 
+ Part of the Daily Mail, The Mail on Sunday & Metro Media Group 
+ © Associated Newspapers Ltd 
+ Contact us 
+ How to complain 
+ Advertise with us 
+ Contributors 
+ Work with Us 
+ Terms 
+ Privacy policy & cookies 
+ 
+ 
+ class fe.views.adverts.BannerMasthead 
+  ad: http://mads.dailymail.co.uk/v2/us/news/none/article/other/banner_top.html  
+ 
+ class fe.views.page_modules.DmFnInit 
+ 
+ class fe.views.page_modules.TaboolaBottom 
+ 
+ class fe.views.page_modules.LoginLightBox 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ class fe.views.smart_banner.JsSmartBanner 
+ 
+ class fe.views.tynt_tracer.TyntTracer 
+  BEGIN Tynt Script  
+ 
+  END Tynt Script  
+ class fe.views.lotame.Lotame 
+ 
+ 

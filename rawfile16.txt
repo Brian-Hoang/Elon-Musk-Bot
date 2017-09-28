@@ -104,11 +104,11 @@
  
  Browse popular topics: 
  
- Eyjafjallajökull volcano 
- plate tectonics 
- Spain 
- list of art and design movements of the 20th century 
- Salem witch trials 
+ Intolerable Acts 
+ Judaism 
+ communism 
+ Johannes Kepler 
+ Massachusetts Bay Colony 
  
  
  
@@ -170,34 +170,34 @@
  Related Biographies 
  
  
- Marc Tarpenning 
- 
- 
- Travis Kalanick 
+ Perry Chen 
  
  
  Martin Eberhard 
  
  
- Sidney Harman 
+ Travis Kalanick 
+ 
+ 
+ Marc Tarpenning 
  
  
  Sean Parker 
  
  
- Perry Chen 
+ Peter Thiel 
+ 
+ 
+ Sidney Harman 
+ 
+ 
+ Robert Gerald Beaumont 
  
  
  Reed Hastings 
  
  
- Peter Thiel 
- 
- 
  Ted Turner 
- 
- 
- Sam Yagan 
  
  
  
@@ -218,8 +218,20 @@
  
  
  
- Demystified / Geography 
-									Which Waters Do You Pass Through When You “Sail the Seven Seas”? 
+ Demystified / History 
+									What Does the Rosetta Stone Say? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spotlight / Science 
+									Spotting a Supercontinent: How Pangea Was Discovered 
  
  
  
@@ -242,20 +254,8 @@
  
  
  
- Spotlight / Literature & Language 
-									The Eternal Legacy of  Treasure Island 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Demystified / Society 
-									Are There Laws on the High Seas? 
+ Demystified / History 
+									Was Johnny Appleseed a Real Person? 
  
  
  
@@ -347,61 +347,21 @@
  
  
  
+ United Nations (UN) 
+ UN international organization established on October 24, 1945. The United Nations (UN) was the second multipurpose international organization established in the 20th century that was worldwide in scope... 
+ 
+ 
+            Read this Article 
+ 
+ 
+ 
+ 
+ 
  Mao Zedong 
  principal Chinese Marxist theorist, soldier, and statesman who led his country’s communist revolution. Mao was the leader of the Chinese Communist Party (CCP) from 1935 until his death, and he was chairman... 
  
  
             Read this Article 
- 
- 
- 
- 
- 
- John McCain 
- U.S. senator who was the Republican Party ’s nominee for president in 2008 but was defeated by Barack Obama. McCain represented Arizona in the U.S. House of Representatives (1983–87) before being elected... 
- 
- 
-            Read this Article 
- 
- 
- 
- 
- 
- Donald Trump 
- 45th president of the United States (2017–). Trump was also a real-estate developer who amassed vast hotel, casino, golf, and other properties in the New York City area and around the world. Business... 
- 
- 
-            Read this Article 
- 
- 
- 
- 
- 
- The United States: Fact or Fiction? 
- Take this Geography True or False Quiz at Encyclopedia Britannica to test your knowledge of the United States. 
- 
- 
-            Take this Quiz 
- 
- 
- 
- 
- 
- 5 Modern Corporate Criminals 
- Below we discuss some of the most notorious corporate criminals of the last half century, in chronological order of the crimes for which they are best known. 
- 
- 
-            Read this List 
- 
- 
- 
- 
- 
- Famous American Faces: Fact or Fiction? 
- Take this History True or False Quiz at Encyclopedia Britannica to test your knowledge of Daniel Boone, Benjamin Franklin, and other famous Americans. 
- 
- 
-            Take this Quiz 
  
  
  
@@ -418,18 +378,8 @@
  
  
  
- United Nations (UN) 
- UN international organization established on October 24, 1945. The United Nations (UN) was the second multipurpose international organization established in the 20th century that was worldwide in scope... 
- 
- 
-            Read this Article 
- 
- 
- 
- 
- 
- Mahatma Gandhi 
- Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India. As such, he came to be considered the father of his country.... 
+ Christopher Columbus 
+ master navigator and admiral whose four transatlantic voyages (1492–93, 1493–96, 1498–1500, and 1502–04) opened the way for European exploration, exploitation, and colonization of the Americas. He has... 
  
  
             Read this Article 
@@ -448,11 +398,61 @@
  
  
  
- Christopher Columbus 
- master navigator and admiral whose four transatlantic voyages (1492–93, 1493–96, 1498–1500, and 1502–04) opened the way for European exploration, exploitation, and colonization of the Americas. He has... 
+ Mahatma Gandhi 
+ Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India. As such, he came to be considered the father of his country.... 
  
  
             Read this Article 
+ 
+ 
+ 
+ 
+ 
+ Donald Trump 
+ 45th president of the United States (2017–). Trump was also a real-estate developer who amassed vast hotel, casino, golf, and other properties in the New York City area and around the world. Business... 
+ 
+ 
+            Read this Article 
+ 
+ 
+ 
+ 
+ 
+ Famous American Faces: Fact or Fiction? 
+ Take this History True or False Quiz at Encyclopedia Britannica to test your knowledge of Daniel Boone, Benjamin Franklin, and other famous Americans. 
+ 
+ 
+            Take this Quiz 
+ 
+ 
+ 
+ 
+ 
+ John McCain 
+ U.S. senator who was the Republican Party ’s nominee for president in 2008 but was defeated by Barack Obama. McCain represented Arizona in the U.S. House of Representatives (1983–87) before being elected... 
+ 
+ 
+            Read this Article 
+ 
+ 
+ 
+ 
+ 
+ 5 Modern Corporate Criminals 
+ Below we discuss some of the most notorious corporate criminals of the last half century, in chronological order of the crimes for which they are best known. 
+ 
+ 
+            Read this List 
+ 
+ 
+ 
+ 
+ 
+ The United States: Fact or Fiction? 
+ Take this Geography True or False Quiz at Encyclopedia Britannica to test your knowledge of the United States. 
+ 
+ 
+            Take this Quiz 
  
  
  

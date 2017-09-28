@@ -1,62 +1,65 @@
+# Elon Musk Bot
+# Brian Hoang, Marwan Kodeih, Devin Ashmore
+#
+# Recommended to run on a Mac
+
 import nltk
 from bs4 import BeautifulSoup
-from nltk import FreqDist
 from nltk.corpus import stopwords
-import string
 import requests
 import urllib
 import re
 import glob
-import sys
+import ast
 
 
-
-
-##Clean up clean files and extract 
+# Clean up cleanfiles and extract frequent terms
 def extract_clean():
-    fdist_c = FreqDist()
-    c_text = "" 
-
-    #loop over every file, replace new lines, lower case, remove punc, add to cum text 
+    cum_text = ""
+    # Loop over every file, lower case, remove punctuation, and add to cumulative text
     for file in glob.glob('cleanfile*.txt'):
         with open(file, 'r') as f:
-            text = f.read().encode("utf-8")
-            text = text.replace("\n", " ")
+            text = f.read()
             text = text.lower()
-            text = text.translate(str.maketrans('','',string.punctuation))
-            c_text.append(text)
-            
-    ##grab tokens and remove stop words 
-    tokens = nltk.word_tokenize(text)
-    tokens = [word for word in tokens if word not in stopwords.words('english')]
-    fdist = FreqDist(tokens)
-    #tags = nltk.pos_tag(tokens)
-    uniq_dic = {}
+            text = re.sub(r'\W', ' ', text)
+            cum_text += text
 
-    #Create dict of unique words where val is frequency 
+    # Grab tokens and remove stop words
+    tokens = nltk.word_tokenize(cum_text)
+    tokens = [word for word in tokens if word not in stopwords.words('english')]
+
+    # Create dict of unique words where value is frequency
+    uniq_dict = {}
     for token in tokens:
-        if token not in uniq_dic:
-            uniq_dic[token] = 1
+        if token not in uniq_dict:
+            uniq_dict[token] = 1
         else:
-            uniq_dic[token] += 1
+            uniq_dict[token] += 1
 
     print("Top 30 most frequent terms: ")
-    #sort list and print it
-    for pos in sorted(uniq_dic, key=uniq_dic.get, reverse=True)[:30]:
-        print(pos.encode("utf-8"), ':', uniq_dic[pos])
+    # Sort list and print it
+    for key in sorted(uniq_dict, key=uniq_dict.get, reverse=True)[:30]:
+        print(key, ':', uniq_dict[key])
 
-
-    for key in sorted(uniq_dic, key=uniq_dic.get, reverse=True)[:10]:
-        with open('topic_{}.txt'.format(key), 'w') as f:
+    # for every top term...
+    # for every cleanfile...
+    # for every sentence...
+    # if a word in the sentence matches the top term, add the sentence to a list
+    templist = []
+    with open('top_terms.txt', 'r') as terms:
+        for term in terms:
             for file in glob.glob('cleanfile*.txt'):
-                with open(file, 'r') as f2:
-                    text = f2.read().encode("utf8")
-                    for sent in text:
-                        for word in sent:
-                            if word==key:
-                                f.write(sent)
+                with open(file, 'r') as f:
+                    text = f.read()
+                    sents = ast.literal_eval(text)  # convert string to list
+                    for sent in sents:
+                        if term in sent:
+                            templist.append(sent)
 
-    
+    # write the list into a knowledge base file
+    with open('knowledge_base.txt', 'w') as f:
+        f.write(str(templist))
+
 
 # function to clean and tokenize scraped text/sentences
 # note: processedfiles only have tabs and newlines removed
@@ -65,12 +68,10 @@ def cleaner():
     counter = 0
     # for every rawfile in directory...
     # remove newlines and tabs and extract sentences with NLTKs sentence tokenizer
-
     # write the sentences for each file to a new file. (if you have 15 files in, you have 15 files out)
     for file in glob.glob('rawfile*.txt'):
         with open(file, 'r') as f:
             text = f.read()
-            text = text.decode('utf-8')
             text = text.replace('\n', '').replace('\r', '')  # replace newlines with spaces
             text = text.replace('\t', '').replace('\r', '')  # replace tabs with spaces
             print(file)
@@ -78,6 +79,9 @@ def cleaner():
             with open('processedfile{}.txt'.format(counter), 'w') as f2:
                 f2.write(str(tokens))
             counter += 1
+
+    # end of function
+    print("end of cleaner")
 
 
 # function to determine if an element is visible
