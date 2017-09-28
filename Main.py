@@ -4,10 +4,13 @@ from nltk import FreqDist
 from nltk.corpus import stopwords
 import string
 import requests
-import urllib.request
+import urllib
 import re
 import glob
 import sys
+
+
+
 
 ##Clean up clean files and extract 
 def extract_clean():
@@ -16,12 +19,12 @@ def extract_clean():
 
     #loop over every file, replace new lines, lower case, remove punc, add to cum text 
     for file in glob.glob('cleanfile*.txt'):
-        with open(file, 'r', encoding="utf8") as f:
-            text = f.read()
+        with open(file, 'r') as f:
+            text = f.read().encode("utf-8")
             text = text.replace("\n", " ")
             text = text.lower()
             text = text.translate(str.maketrans('','',string.punctuation))
-            c_text+=text
+            c_text.append(text)
             
     ##grab tokens and remove stop words 
     tokens = nltk.word_tokenize(text)
@@ -37,9 +40,22 @@ def extract_clean():
         else:
             uniq_dic[token] += 1
 
+    print("Top 30 most frequent terms: ")
     #sort list and print it
     for pos in sorted(uniq_dic, key=uniq_dic.get, reverse=True)[:30]:
         print(pos.encode("utf-8"), ':', uniq_dic[pos])
+
+
+    for key in sorted(uniq_dic, key=uniq_dic.get, reverse=True)[:10]:
+        with open('topic_{}.txt'.format(key), 'w') as f:
+            for file in glob.glob('cleanfile*.txt'):
+                with open(file, 'r') as f2:
+                    text = f2.read().encode("utf8")
+                    for sent in text:
+                        for word in sent:
+                            if word==key:
+                                f.write(sent)
+
     
 
 # function to clean and tokenize scraped text/sentences
@@ -48,14 +64,16 @@ def extract_clean():
 def cleaner():
     counter = 0
     # for every rawfile in directory...
-    # remove newlines and tabs
-    # extract sentences with NLTK’s sentence tokenizer
+    # remove newlines and tabs and extract sentences with NLTKs sentence tokenizer
+
     # write the sentences for each file to a new file. (if you have 15 files in, you have 15 files out)
     for file in glob.glob('rawfile*.txt'):
         with open(file, 'r') as f:
             text = f.read()
+            text = text.decode('utf-8')
             text = text.replace('\n', '').replace('\r', '')  # replace newlines with spaces
             text = text.replace('\t', '').replace('\r', '')  # replace tabs with spaces
+            print(file)
             tokens = nltk.sent_tokenize(text)  # tokenize text
             with open('processedfile{}.txt'.format(counter), 'w') as f2:
                 f2.write(str(tokens))
